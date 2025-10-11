@@ -8,7 +8,7 @@
   
   <style>
     
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Geist:wght@100..900&display=swap');
    
    /* Grundlæggende styling */
     * {
@@ -23,9 +23,9 @@
     }
 
     body {
-      font-family: "Special Gothic Expanded One", sans-serif;
+      font-family: "Fugaz One", sans-serif;
       line-height: 1.6;
-      background:  url(images/hero/background_body.svg), linear-gradient(to bottom, #72DDF7, #06BEE1);
+      background:  url(imagesjulie/baggrund/body.svg), linear-gradient(to bottom, #72DDF7, #06BEE1);
       cursor: url(images/mousecursor/mouse32x32.png) 0 0, auto;
       background-size: cover, contain;   /* gradient covers, SVG scales nicely */
       background-position: center, center; /* both centered */
@@ -46,18 +46,19 @@
     a {
       text-decoration: none;
       color: inherit;
-      font-family: "Special Gothic Expanded One", sans-serif;
+      font-family: "Fugaz One", sans-serif;
       cursor: url('images/mousecursor/hand32x32.png') 0 0, pointer;
     }
 
     button {
-      font-family: "Special Gothic Expanded One", sans-serif;
+      font-family: "Fugaz One", sans-serif;
       cursor: url('images/mousecursor/hand32x32.png') 0 0, pointer;
     }
 
     .logo {
       width: 10rem;
       transition: 0.3s ease;
+      color: #7B5E7B;
     }
 
     .logo:hover {
@@ -73,7 +74,7 @@
     }
 
     h2 {
-    font-family: "Special Gothic Expanded One", sans-serif;
+    font-family: "Fugaz One", sans-serif;
     text-transform: uppercase;
     font-weight: bolder;
     margin-top: 2rem;
@@ -83,9 +84,9 @@
     }
 
     h3 {
-      font-family: "Special Gothic Expanded One", sans-serif;
+      font-family: "Fugaz One", sans-serif;
       text-transform: uppercase;
-      color: #216B7c;
+      color: #7B5E7B;
     }
 
     p {
@@ -179,7 +180,7 @@
     .nav-links li a:hover {
       background: #06BEE1;
       border-radius: 2rem;
-      font-family: "Special Gothic Expanded One", sans-serif;
+      font-family: "Fugaz One", sans-serif;
       font-weight: 900;
       font-style: italic;
     }
@@ -221,11 +222,11 @@
   align-items: center;
   /* first layer = SVG, second layer = Gradient */
   background: 
-  url(images/hero/background_hero.svg),linear-gradient(to bottom, #F7AEF8, #F7AEF8);
+  url(imagesjulie/baggrund/hero.svg),linear-gradient(to bottom, #F7AEF8, #F7AEF8);
   background-size: cover, contain;   /* gradient covers, SVG scales nicely */
   background-position: center, center; /* both centered */
   background-repeat: no-repeat, no-repeat;
-  border-radius: 3rem;
+  border-radius: 10rem;
   margin: 2rem;
   padding: 2rem;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
@@ -264,7 +265,7 @@
     background: linear-gradient(to bottom, #FDC5F5, #FDC5F5);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border: none;
-    border-radius: 0.5rem;
+    border-radius: 5rem;
     cursor: url('images/mousecursor/hand32x32.png') 0 0, pointer;
     width: auto;
     text-decoration: none;
@@ -272,8 +273,9 @@
     }
 
     .hero-button:hover {
-    background: linear-gradient(to bottom, #F7AEF8, #F7AEF8);
+    background: #7B5E7B;
     color: #06BEE1;
+    transform: scale(1.05);
     }
 
 
@@ -483,15 +485,15 @@
       margin-top: 1rem;
       display: inline-block;
       border: 0.01rem solid #777;
-      border-radius: 0.3rem;
+      border-radius: 5rem;
       padding: 0.4rem;
       font-size: 0.5rem;
     }
 
     .project-item:hover {
-      background: linear-gradient(to bottom, #ff6f00, #ff8c00);
-      transform: skew(1deg, 1deg);
-      font-family: "Special Gothic Expanded One", sans-serif;
+      background: linear-gradient(to bottom, #F7AEF8, #FDC5F5);
+      transform:scale(1.05);
+      font-family: "Fugaz One", sans-serif;
       font-weight: 900;
       font-style: italic;
       color: #fff;
@@ -512,7 +514,7 @@
       text-align: center;
     }
     .modal-content {
-      background: linear-gradient(to bottom, #fff, #eaeaea);
+      background: linear-gradient(to bottom, #fff, #FDC5F5);
       margin: 2rem auto;
       padding: 1rem;
       border-radius: 0.5rem;
@@ -525,7 +527,7 @@
       text-align: left;
       padding-left: 2rem;
       font-size: 30px;
-      color: #216B7c;
+      color: #7B5E7B;
     }
 
     .modal-content h3 {
@@ -582,10 +584,10 @@
     }
 
     .modal-body a {
-      color: #ff8c00;
+      color: #06BEE1;
       font-weight: bolder;
       font-family: "Railway", sans-serif;
-            cursor: url('images/mousecursor/hand32x32.png') 0 0, pointer;
+      cursor: url('images/mousecursor/hand32x32.png') 0 0, pointer;
     }
 
     .close {
@@ -674,7 +676,7 @@
     bottom: 8rem;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #ff8c00;
+    background-color: #7B5E7B;
     color: #fff;
     padding: 0.5rem 1rem;
     font-size: 1rem;
@@ -703,6 +705,7 @@
     .footer-text {
       font-family: "Raleway", sans-serif;
       font-weight: 500;
+      padding-bottom: 2rem;
     }
 
 
@@ -872,16 +875,7 @@ nav {
         align-items: center; /* Centrerer ikonerne horisontalt */
         gap: 1rem; /* Tilføjer afstand mellem ikonerne */
     }
-
-    /* billede af mig */
-        .footer-text img {
-      width: 20%;
-      display: block;
-      margin: auto;
-      margin-top: 2.5rem;
-      transition: transform 0.3s ease; /* This enables smooth scaling */
-    }
-    }
+  }
         
   </style>
 
@@ -892,7 +886,7 @@ nav {
   <nav id="navbar">
     <div class="logo">
      <a href="#hero">
-        <img src="images/logoer/logo.png" alt="Jonas Albjerg logo" />
+        <img src="imagesjulie/logo/logo_hvid.svg" alt="Julie Schrøder logo" />
       </a>
     </div>
     <!-- Burger-menu til mobil -->
@@ -1006,12 +1000,10 @@ nav {
       <!-- Projekt 12 -->
       <div class="project-item" data-modal="modal12">
         <img src="images/projekt12/thumbnail.jpg" alt="Kandidatspeciale" title="Går short-form-videoer hånd i hånd med træningscontent?">
-        <h3>Kandidatspeciale</h3>
-        <h4>Anvendelsen af korte fitnessinstruktionsvideoer på sociale medier.</h4>
-        <p>UX</p>
-        <p>Grafisk design</p>
-        <p>Video</p>
-        <p>Sociale medier</p>
+        <h3>Bachelorprojekt</h3>
+        <h4>Sammenhængen mellem florid i drikkevand og fødselsudkom.</h4>
+        <p>Big Data</p>
+        <p>Datanalyse</p>
       </div>
 
       <!-- Projekt 23 -->
@@ -1143,7 +1135,7 @@ nav {
     <div class="about-container">
       <div class="about-text">
         <h2>Stud.scient i Data Science</h2>
-        <p>Jeg har netop færdiggjort min bachelor i Folkesundhedsvidenskab ved Syddansk Universitet. <br><br>Sideløbende med mit studie arbejder jeg som studentermedhjælper ved Innovation, Forskning og MTV på Odense Universitetshospital (OUH), hvor jeg er med til at understøtte PRO-arbejdet.<br><br> Jeg er også grøn pigespejder, og i de sidste mange år har jeg haft forskellige virker: jeg har indgået i regionsledelsen samt den "daglige" drift af de ugentlige spejdermøder i en lokal gruppe. </p>
+        <p>Jeg studerer Data Science ved Syddansk Universitet, hvor jeg arbejder med programmeringssprog som Puthon og R. Jeg har en bachelor i Folkesundhedsvidenskab - også fra Syddansk Universitet. <br><br>Sideløbende med mit studie arbejder jeg som studentermedhjælper ved Innovation, Forskning og MTV på Odense Universitetshospital (OUH), hvor jeg er med til at understøtte PRO-arbejdet.<br><br> Jeg er også grøn pigespejder, og i de sidste mange år har jeg haft forskellige virker: jeg har indgået i regionsledelsen samt den "daglige" drift af de ugentlige spejdermøder i en lokal gruppe. </p>
       </div>
       <div class="about-image">
         <img src="images/om mig/ommig_julie.JPG" alt="Billede af mig">
@@ -1163,32 +1155,28 @@ nav {
   <footer id="footer" class="footer">
 
 <div>
-  <h2>Skal vi ta' en snak - eller vil du kigge videre på SoMe?</h2>
+  <h2>Kontakt mig her</h2>
 </div>
 
 <div class="footer-images">
   <div class="footer-col">
-    <a href="https://www.linkedin.com/in/jonashartmannalbjerg/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/julie-schroder//" target="_blank" rel="noopener noreferrer">
       <img src="images/kontakt/linkedin.svg" alt="LinkedIn">
       <span class="tooltip-text">LinkedIn</span>
     </a>
   </div>
+
   <div class="footer-col">
-    <a href="mailto:jonashalbjerg@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:julie.schreoder@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="images/kontakt/mail.svg" alt="mail">
       <span class="tooltip-text">Send en mail</span>
     </a>
   </div>
+
   <div class="footer-col">
-    <a href="tel:+4553632036" target="_blank" rel="noopener noreferrer">
+    <a href="tel:+4550561270" target="_blank" rel="noopener noreferrer">
       <img src="images/kontakt/telefon.svg" alt="telefon">
       <span class="tooltip-text">Ring til mig</span>
-    </a>
-  </div>
-  <div class="footer-col">
-    <a href="https://www.tiktok.com/@cowboyderjones" target="_blank" rel="noopener noreferrer">
-      <img src="images/kontakt/tiktok.svg" alt="TikTok">
-      <span class="tooltip-text">TikTok</span>
     </a>
   </div>
 
@@ -1196,7 +1184,6 @@ nav {
 
   <div class="footer-text">
     <p>&copy; 2025 - Julie Schrøder.</p>
-    <div><img src="images/logoer/logo.svg" alt="logo"></div>
   </div>
 </footer>
 
