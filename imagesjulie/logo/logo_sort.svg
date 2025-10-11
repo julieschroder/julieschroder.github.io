@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_2" data-name="Lag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 851.49 362.71">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SignPainter-HouseScript, SignPainter;
+        font-size: 123px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #1d1d1b;
+      }
+
+      .cls-2 {
+        font-family: SignPainter-HouseScriptSemibold, SignPainter;
+        font-size: 200px;
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: MinionConceptRoman-Display, 'Minion Variable Concept';
+        font-size: 300px;
+        font-variation-settings: 'wght' 400, 'opsz' 36;
+      }
+    </style>
+  </defs>
+  <g id="Lag_1-2" data-name="Lag 1">
+    <g>
+      <text class="cls-2" transform="translate(268.05 197.33)"><tspan class="cls-5" x="0" y="0">J</tspan><tspan x="84.4" y="0">ulie</tspan></text>
+      <text class="cls-1" transform="translate(253.06 293.38)"><tspan class="cls-4" x="0" y="0">S</tspan><tspan x="52.15" y="0">chrø</tspan><tspan class="cls-6" x="217.95" y="0">d</tspan><tspan x="266.04" y="0">er</tspan></text>
+    </g>
+    <g>
+      <text class="cls-3" transform="translate(83.45 247.5)"><tspan x="0" y="0">{</tspan></text>
+      <text class="cls-3" transform="translate(673.84 247.5)"><tspan x="0" y="0">}</tspan></text>
+    </g>
+  </g>
+</svg>
