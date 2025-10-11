@@ -107,7 +107,7 @@
   display: flex;
   white-space: nowrap;
   will-change: transform;
-  animation: scroll-marquee 25s ease-in-out infinite alternate;
+  animation: scroll-marquee 35s ease-in-out infinite alternate;
 }
 
 .marquee-content span {
@@ -260,7 +260,7 @@
     padding: 0.75rem 2rem;
     color: #fff;
     font-size: 1rem;
-    background: linear-gradient(to bottom, #E56B6F, #E56B6F);
+    background: #E56B6F;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border: none;
     border-radius: 5rem;
@@ -446,7 +446,7 @@
 
     .projects-container {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       gap: 2rem;
       max-width: 90rem;
       margin-left: auto;
@@ -471,6 +471,7 @@
     .project-item h3 {
       margin-top: 1rem;
       text-transform: uppercase;
+      color: #E56B6F;
     }
 
     .project-item h4 {
@@ -489,11 +490,10 @@
     }
 
     .project-item:hover {
-      background: linear-gradient(to bottom, #E56B6F, #B56576);
+      background: linear-gradient(to bottom, #B56576, #7B5E7B);
       transform:scale(1.05);
       font-family: "Fugaz One", sans-serif;
       font-weight: 900;
-      font-style: italic;
       color: #fff;
     }
 
@@ -512,7 +512,7 @@
       text-align: center;
     }
     .modal-content {
-      background: linear-gradient(to bottom, #fff, #FDC5F5);
+      background: linear-gradient(to bottom, #B56576, #7B5E7B);
       margin: 2rem auto;
       padding: 1rem;
       border-radius: 0.5rem;
@@ -525,7 +525,7 @@
       text-align: left;
       padding-left: 2rem;
       font-size: 30px;
-      color: #7B5E7B;
+      color: #fff;
     }
 
     .modal-content h3 {
@@ -582,7 +582,7 @@
     }
 
     .modal-body a {
-      color: #06BEE1;
+      color: #355070;
       font-weight: bolder;
       font-family: "Railway", sans-serif;
       cursor: url('images/mousecursor/hand32x32.png') 0 0, pointer;
@@ -594,7 +594,7 @@
       right: 1rem;
       font-size: 3rem;
       cursor: url('images/mousecursor/hand32x32.png') 0 0, pointer;
-      color: #ff0000;
+      color: #355070;
     }
 
 /* Om mig sektion */
@@ -815,6 +815,8 @@ nav {
         gap: 1.5rem;
       }
 
+
+
       /* Om mig: tekst først, billede under */
       .about-container {
         flex-direction: column;
@@ -957,29 +959,17 @@ nav {
 
     <!-- Hvert projekt er klikbart og åbner et modalvindue -->
 
-      <!-- Projekt 12 -->
-      <div class="project-item" data-modal="modal12">
-        <img src="images/projekt12/thumbnail.jpg" alt="Kandidatspeciale" title="Går short-form-videoer hånd i hånd med træningscontent?">
-        <h3>Bachelorprojekt</h3>
-        <h4>Sammenhængen mellem florid i drikkevand og fødselsudkom.</h4>
-        <p>Big Data</p>
-        <p>Datanalyse</p>
+      <!-- Projekt 1 -->
+      <div class="project-item" data-modal="modal1"> <!--hører sammen med ID i modal-->
+        <img src="images/projekt12/thumbnail.jpg" alt="Kandidatspeciale" title="Går short-form-videoer hånd i hånd med træningscontent?"> <!--Billede-->
+        <h3>Bachelorprojekt</h3> <!--TITEL-->
+        <h4>Sammenhængen mellem florid i drikkevand og fødselsudkom.</h4> <!--Undertitel-->
+        <p>Big Data</p> <!--TAG-->
+        <p>Datanalyse</p> <!--TAG-->
       </div>
 
-      <!-- Projekt 23 -->
-      <div class="project-item" data-modal="modal23">
-        <img src="images/projekt23/thumbnail.jpg" alt="Grafisk materiale til lipLid" title="liplid er den ny standard til to-go koppen.">
-        <h3>LIPLID</h3>
-        <h4>Liplid er et nyt miljøvenligt låg til to go-kaffe og sodavandsbægre.</h4>
-        <p>Video</p>
-        <p>Motion Graphics</p>
-        <p>Print</p>
-        <p>Grafisk design</p>
-        <p>Webudvikling</p>
-      </div>
-
-      <!-- Projekt 33 -->
-      <div class="project-item" data-modal="modal33">
+      <!-- Projekt 2 -->
+      <div class="project-item" data-modal="modal2">
         <img src="images/projekt33/thumbnail.jpg" alt="HECHT:RIGAS" title="Nyt website til HECHT:RIGAS">
         <h3>Hecht:Rigas Advokatanparkselskab</h3>
         <h4>Udvikling af nyt website til HECHT:RIGAS.</h4>
@@ -990,66 +980,23 @@ nav {
     </div>
   </section>
 
-  <!-- Modalvinduer for hvert projekt - indhold -->
+  <!-- Modalvinduer for hvert projekt - åbner indhold op i et vindue fra project item -->
 
-  <!-- Projekt 12 -->
-  <div class="modal" id="modal12">
+  <!-- Projekt 1 -->
+  <div class="modal" id="modal1"> <!--hører sammen med data modal i project item-->
     <div class="modal-content">
-      <span class="close">&times;</span>
-      <h2>Kandidat-speciale</h2>
+      <span class="close">&times;</span> <!--den røde knap som lukker modal-->
+      <h2>Kandidat-speciale</h2> <!--Titel inde i modalvinduet-->
       <div class="modal-body">
         <p>Med en personlig interesse for fitness og sociale medier, valgte jeg at undersøge hvordan instruktionsvideoer på SoMe-platforme egentlig anvendes i praksis.</p>
         <img src="images/projekt12/3.jpg" alt="Short form videoer på TikTok, Instagram, Facebook og YouTube">
-        <p>I specialet undersøger jeg dels UI på tværs af Facebook, Instagram, TikTok og YouTube, for at forstå hvordan platformene er sat op - overraskende minder alle platforme visuelt om hinanden - men for at interagere med interfacet, skal der forskellige handlinger til.</p>
-        <img src="images/projekt12/1.jpg" alt="Brugerinteraktion med platformene">
-        <p>Udover UI, har jeg testet platformene og udvalgte videoinstruktioner på 4 forsøgspersoner, for at observere hvordan videoindholdet anvendes direkte, og om der opstår begrænsninger i interaktionen mellem bruger, video og platform.</p>
-        <p>Problematikken valgte jeg at døbe start-og-stop-processen. Processen definerer brugerens skiften mellem at se videoinstruktioner, og selv prøve at udføre øvelserne fra videoerne. Men grundet det korte videoformat og få detaljer, er brugerne løbende nødt til at skfite frem og tilbage for at få fuld forståelse for øvelserne.</p>
-        <img src="images/projekt12/2.jpg" alt="Figur der viser hvordan brugeren skal rundt om instruktøren, for at få det fulde billede af en øvelse">
-        <p>Gennem dialog med forsøgspersonerne og analyse af videooptagelserne, kom jeg frem til en række løsningsforslag.</p>
-        <p>Den første løsning implementerer VR. Ved hjælp af VR-briller vil brugeren have mulighed for at se videoinstruktioner, mens der samtidig kan udføres øvelser.</p>
-        <img src="images/projekt12/4.jpg" alt="Oculus VR-briller">
-        <p>Brugen af VR løser også et problem som flere brugere rapportede; muligheden for at se instruktørerne bedre. Med VR kan brugeren navigere rundt om instruktøren og se hvordan øvelser udføres. Dog kræver det at videoskaberen bag instruktionsvideoen, har VR-udstyr til rådighed.</p>
         <p>Programmer anvendt: Photoshop, Illustrator, Premiere Pro.</p>
       </div>
     </div>
   </div>
 
-  <!-- Projekt 23 -->
-  <div class="modal" id="modal23">
-    <div class="modal-content">
-      <span class="close">&times;</span>
-      <h2>LIPLID</h2>
-      <div class="modal-body">
-        <p>Med en værdiansættelse på 100 mio. kr., er liplid kaffelåg til to-go kopper og andre engangskopper.</p>
-        <video controls>
-          <source src="images/projekt23/7.mp4" type="video/mp4" alt="Explainervideo">
-        </video>
-        <video controls>
-          <source src="images/projekt23/1.mp4" type="video/mp4" alt="Stemningsvideo">
-        </video>
-        <p>Jeg har på egen hånd opbygget en masse grafik og videomateriale, til at brande og fremvise liplid på det danske marked.</p>
-        <video controls>
-          <source src="images/projekt23/2.mp4" type="video/mp4" alt="Med på farten">
-        </video>
-        <video controls>
-          <source src="images/projekt23/8.mp4" type="video/mp4" alt="SoMe-opslag - udpakning af første sending Liplid-låg">
-        </video>
-        <p>Jeg har produceret videomateriale til brug på SoMe-kanaler, samt infokataloger, visitkort, plakater m.m., som konsulenter har haft med i marken.</p>
-        <p>Se f.eks. nogle af opslagene <a href="https://www.facebook.com/share/v/16BoYvEJpW/" target="_blank">her</a> eller <a href="https://www.linkedin.com/posts/b-company_hvert-%C3%A5r-produceres-mere-end-300-mia-plastik-activity-7192077951868252161-tokN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACs1JMoBIsJC-LW-rkQl9dYrkRWvj98CVZw" target="_blank">her.</a></p>
-        <img src="images/projekt23/3.jpg" alt="Brochure">
-        <img src="images/projekt23/4.jpg" alt="Visitkort">
-        <p>Udover grafik og video, har jeg også opsat en <a href="https://bcompany.dk/liplid" target="_blank">landingsside</a>, som informerer om låget, unique selling points, ofte stillede spørgsmål og video guides.</p>
-        <p>Både SEO og den synlige del af landingssiden er opsat i Magento Pagebuilder.</p>
-        <img src="images/projekt23/5.jpg" alt="Landingsside - desktop">
-        <img src="images/projekt23/6.jpg" alt="Landingsside - mobil">
-        <p>Forud for produktionen har jeg researchet artikler om konceptet, samt studeret hvordan liplid selv brander sig.</p>
-        <p>Programmer anvendt: Photoshop, Premiere Pro, InDesign, Magento Pagebuilder.</p>
-      </div>
-    </div>
-  </div>
-
-<!-- Projekt 33 -->
-      <div class="modal" id="modal33">
+<!-- Projekt 2 -->
+      <div class="modal" id="modal2">
         <div class="modal-content">
           <span class="close">&times;</span>
           <h2>Hecht:Rigas - Nyt website</h2>
@@ -1058,23 +1005,9 @@ nav {
             <video controls>
               <source src="images/projekt33/1.mp4" type="video/mp4" alt="Hecht:Rigas - startside">
             </video>
-            <h3>Mit arbejde omfattede bl.a.:</h3>
             <ul>
               <li>Sparring med kunden om design og brugeroplevelse.</li>
-              <li>Justering af logo og farvevalg for at skabe et mere stramt og professionelt udtryk.</li>
-              <li>Implementering af et skarpt, kantet design - uden afrundede hjørner - for at understøtte firmaets seriøse profil.</li>
-              <li>Opsætning af forside med video-hero sektion.</li>
-              <li>Strukturering og design af sider for specialer, blogindlæg og privatlivspolitikker.</li>
-              <li>Udvælgelse og opsætning af billeder og videoindhold.</li>
-              <li>SEO-konfiguration via Yoast SEO inkl. meta-beskrivelser og titler.</li>
             </ul>
-            <img src="images/projekt33/2.jpg" alt="Sektion der forklarer om virksomhedens grundlag">
-            <img src="images/projekt33/3.jpg" alt="Udvalgte sider på mobil">
-            <img src="images/projekt33/4.gif" alt="Proces i skatteret">
-            <img src="images/projekt33/5.jpg" alt="Et af specialernes landingsside">
-            <p><strong>Min rolle: </strong>Webdesign, opsætning, samt visuel rådgivning og sparring.</p>
-            <p><strong>Varighed: </strong>ca. 2 måneder</p>
-            <p><strong>Programmer anvendt: </strong>WordPress, Elementor, Yoast SEO-plugin, Photoshop, Canva.</p>
             <p>Se websitet <a href="https://hecht-rigas.dk" target="_blank" rel="noopener noreferrer">her.</a></p>
           </div>
         </div>
