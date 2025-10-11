@@ -77,8 +77,6 @@
     font-family: "Fugaz One", sans-serif;
     text-transform: uppercase;
     font-weight: bolder;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
     font-size: 2rem;
     color: #fff;
     }
@@ -90,7 +88,7 @@
     }
 
     p {
-      font-family: "Raleway", sans-serif;
+      font-family: "Geist", sans-serif;
     }
 
 /* START effekt som får h2-elementer til at køre hen over skærmen */
@@ -476,12 +474,12 @@
     }
 
     .project-item h4 {
-      font-family: "Raleway", sans-serif;
+      font-family: "Geist", sans-serif;
       font-weight: 500;
     }
 
     .project-item p {
-      font-family: "Raleway", sans-serif;
+      font-family: "Geist", sans-serif;
       margin-top: 1rem;
       display: inline-block;
       border: 0.01rem solid #777;
@@ -567,7 +565,7 @@
       padding-right: 2rem;
       padding-top: 2rem;
       padding-bottom: 2rem;
-      font-family: "Raleway", sans-serif;
+      font-family: "Geist", sans-serif;
       font-weight: 500;
     }
 
@@ -579,7 +577,7 @@
       padding-right: 2rem;
       padding-top: 1rem;
       padding-bottom: 1rem;
-      font-family: "Raleway", sans-serif;
+      font-family: "Geist", sans-serif;
       font-weight: 500;
     }
 
@@ -614,7 +612,7 @@
   gap: 2rem;
 }
 .about-text, .about-image {
-  font-family: "Raleway", sans-serif;
+  font-family: "", sans-serif;
   font-size: 18px;
   font-weight: 500;
   flex: 1;
@@ -625,12 +623,12 @@
 }
 
 .about-image img {
-  margin-top: 7rem;
   width: 75%;
 }
 
 .about-text h2 {
   font-size: 1.5rem;
+  padding-bottom: 2rem;
 }
 
 .about-text p {
@@ -642,71 +640,34 @@
 }
 
     /* Footer sektion */
-    footer.footer {
-      color: #fff;
-      text-align: center;
-    }
+.footer h2{
+  text-align: center;
+  font-size: 1.5rem;
+}
 
-    .footer h2 {
-      color: #fff;
-      font-size: 1.5rem;
-    }
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem; /* space between links */
+}
 
-    .footer-images {
-    display: flex; /* Skift fra grid til flex */
-    justify-content: center; /* Centrerer ikonerne horisontalt */
-    align-items: center; /* Centrerer dem vertikalt */
-    gap: 1rem; /* Giver lidt mere afstand mellem ikonerne */
-    padding: 1rem;
-    }
+.footer-links p a {
+  color: #fff;
+  text-decoration: none;
+  
+}
 
-    .footer-col img {
-      border-radius: 8px;
-      width: 8rem;
-      height: 8rem;
-      transition: transform 0.3s ease, box-shadow 0.3s ease; /* Tilføjer en smooth transition */
-    }
+.footer-links p a:hover {
+  color: #7B5E7B;
+}
 
-    .footer-col {
-    position: relative;
-  }
+.footer p{
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
 
-    .tooltip-text {
-    position: absolute;
-    bottom: 8rem;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #7B5E7B;
-    color: #fff;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    white-space: nowrap;
-    border-radius: 0.5rem;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 1s ease;
-    pointer-events: none;
-    z-index: 10;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
-
-  .footer-col:hover .tooltip-text {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(10%) skewX(10deg) rotate(-47deg);
-  }
-
-
-    .footer-col img:hover {
-    transform: rotateX(25deg); /* Gør ikonet lidt større ved hover */
-    cursor: url('images/mousecursor/hand32x32.png') 0 0, pointer;
-    }
-
-    .footer-text {
-      font-family: "Raleway", sans-serif;
-      font-weight: 500;
-      padding-bottom: 2rem;
-    }
 
 
 /* Responsivt design mobil */
@@ -780,6 +741,7 @@ nav {
         flex-direction: column;
         margin-left: 1.5rem;
         margin-right: 1.5rem;
+        border-radius: 5rem;
       }
 
       .hero h1 {
@@ -859,7 +821,7 @@ nav {
         text-align: left;
       }
       
-    .about-text, .about-image {
+    .about-text {
       flex: 1;
       padding-right: 1.5rem;
       padding-left: 1.5rem;
@@ -869,11 +831,9 @@ nav {
       color: #fff;
     }
 
-      .footer-images {
-        display: flex;
-        flex-direction: column; /* Stak ikonerne vertikalt */
-        align-items: center; /* Centrerer ikonerne horisontalt */
-        gap: 1rem; /* Tilføjer afstand mellem ikonerne */
+    .about-image{
+      display: flex;
+      justify-content: center;
     }
   }
         
@@ -909,7 +869,7 @@ nav {
       <img src="imagesjulie/hero/2.png" alt="Hero billede" class="rotate-scale" loading="eager" fetchpriority="high">
     </div>
     <div class="hero-right">
-      <h1>DATA. DUM. DEJLIG.<br> Velkommen til Julies dataverse</h1>
+      <h1>Velkommen til Julies dataverse</h1>
       <button class="hero-button" onclick="location.href='#projekter'">Vil du se?</button>
     </div>
   </section>
@@ -1152,38 +1112,19 @@ nav {
   </div>
 
   <!-- Footer sektion med billeder og tekst -->
-  <footer id="footer" class="footer">
-
-<div>
-  <h2>Kontakt mig her</h2>
-</div>
-
-<div class="footer-images">
-  <div class="footer-col">
-    <a href="https://www.linkedin.com/in/julie-schroder//" target="_blank" rel="noopener noreferrer">
-      <img src="images/kontakt/linkedin.svg" alt="LinkedIn">
-      <span class="tooltip-text">LinkedIn</span>
-    </a>
+<footer id="footer" class="footer">
+  <div>
+    <h2>Kontakt mig her</h2>
   </div>
 
-  <div class="footer-col">
-    <a href="mailto:julie.schreoder@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="images/kontakt/mail.svg" alt="mail">
-      <span class="tooltip-text">Send en mail</span>
-    </a>
+  <div class="footer-links">
+    <p><a href="tel:+4550561270">Telefon</a></p>
+    <p><a href="mailto:julie.schroeder@gmail.com">Mail</a></p>
+    <p><a href="https://www.linkedin.com/in/julie-schroder/" target="_blank">LinkedIn</a></p>
   </div>
-
-  <div class="footer-col">
-    <a href="tel:+4550561270" target="_blank" rel="noopener noreferrer">
-      <img src="images/kontakt/telefon.svg" alt="telefon">
-      <span class="tooltip-text">Ring til mig</span>
-    </a>
-  </div>
-
-</div>
 
   <div class="footer-text">
-    <p>&copy; 2025 - Julie Schrøder.</p>
+    <p>&copy; 2025 – Julie Schrøder.</p>
   </div>
 </footer>
 
