@@ -961,20 +961,23 @@ nav {
 
       <!-- Projekt 1 -->
       <div class="project-item" data-modal="modal1"> <!--hører sammen med ID i modal-->
-        <img src="images/projekt12/thumbnail.jpg" alt="Kandidatspeciale" title="Går short-form-videoer hånd i hånd med træningscontent?"> <!--Billede-->
+        <img src="imagesjulie/projekter/projekt1/Thumbnail.jpg" alt="Bachelorprojekt" title="Sammenhængen mellem fluorid i drikkevand og negative fødselsudfald: et registerbaseret kohortestudie"> <!--Billede-->
         <h3>Bachelorprojekt</h3> <!--TITEL-->
-        <h4>Sammenhængen mellem florid i drikkevand og fødselsudkom.</h4> <!--Undertitel-->
-        <p>Big Data</p> <!--TAG-->
+        <h4>Sammenhængen mellem florid i drikkevand og fødselsudfald.</h4> <!--Undertitel-->
         <p>Datanalyse</p> <!--TAG-->
+        <p>Stata</p> <!--TAG-->
       </div>
 
       <!-- Projekt 2 -->
       <div class="project-item" data-modal="modal2">
-        <img src="images/projekt33/thumbnail.jpg" alt="HECHT:RIGAS" title="Nyt website til HECHT:RIGAS">
-        <h3>Hecht:Rigas Advokatanparkselskab</h3>
-        <h4>Udvikling af nyt website til HECHT:RIGAS.</h4>
-        <p>UX</p>
-        <p>Webudvikling</p>
+        <img src="images/projekt33/thumbnail.jpg" alt="Programmering" title="Programmering">
+        <h3>1. semester programmeringsprojekt</h3>
+        <h4>Danske Olympiske Medaljevindere</h4>
+        <p>Python</p>
+        <p>Scraping</p>
+        <p>Parsing</p>
+        <p>Pandas</p>
+        <p>Dashboard</p>
       </div>  
 
     </div>
@@ -986,11 +989,12 @@ nav {
   <div class="modal" id="modal1"> <!--hører sammen med data modal i project item-->
     <div class="modal-content">
       <span class="close">&times;</span> <!--den røde knap som lukker modal-->
-      <h2>Kandidat-speciale</h2> <!--Titel inde i modalvinduet-->
+      <h2>Bachelorprojekt</h2> <!--Titel inde i modalvinduet-->
       <div class="modal-body">
-        <p>Med en personlig interesse for fitness og sociale medier, valgte jeg at undersøge hvordan instruktionsvideoer på SoMe-platforme egentlig anvendes i praksis.</p>
-        <img src="images/projekt12/3.jpg" alt="Short form videoer på TikTok, Instagram, Facebook og YouTube">
-        <p>Programmer anvendt: Photoshop, Illustrator, Premiere Pro.</p>
+        <p>I mit afsluttende bachelorprojekt søgte jeg at undersøge sammenhængen mellem eksponering af fluorid i drikkevand og specifikke negative fødselsudfald ved brug af aggregeret registerdata fra det danske fødselsregister. Jeg undersøgte fødselsudfaldene <i>tidlig fødsel</i>, <i>lav fødselsvægt</i> og <i>lille for gestationsalder</i>. Eksponeringen var fluoridkoncentration inddelt i 4 kategorier.</p>
+        <p>Jeg udførte i alt 9 logistiske regressionsanalyser, hvoraf de første 3 var ujusterede analyser mellem henholdsvis hvert outcome og eksponeringen. Dernæst udførte jeg 3 justerede analyser mellem henholdsvis hvert outcome og eksponeringen, hvor jeg justerede for barnets køn, morens uddannelsesniveau, paritet og morens alder. Til slut udførte jeg 3 interaktionsanalyser for at undersøge barnets køns påvirkning af sammenhængen mellem fluorid og hvert fødselsudfald. Analyserne er udført ved brug af Stata/BE.</p>
+        <p>Jeg konkluderede at det tydede på at tidlig fødsel og lav fødselsvægt havde en optimal fluoridkoncentration hvor både lav og høj koncentration øgede odds for fødselsudfaldet, samt at højere fluoridkoncentration gav højere odds for lille for gestationsalder. Derudover konkluderede jeg at barnets køn ikke påvirkede denne sammenhænd. Til slut satte jeg spørgsmålstegn ved den kliniske relevans af mine resultater da estimaterne var små.</p>
+        <p>Programmer anvendt: Stata/BE</p>
       </div>
     </div>
   </div>
@@ -999,16 +1003,11 @@ nav {
       <div class="modal" id="modal2">
         <div class="modal-content">
           <span class="close">&times;</span>
-          <h2>Hecht:Rigas - Nyt website</h2>
+          <h2>Danske Olympiske Medaljevindere</h2>
           <div class="modal-body">
-            <p>I sommeren 2025 designede og opsatte jeg en ny hjemmeside for advokatfirmaet Hecht:Rigas. Projektet blev udført i tæt dialog med kunden, hvor jeg bidrog med rådgivning om både struktur, layout og det visuelle udtryk.</p>
-            <video controls>
-              <source src="images/projekt33/1.mp4" type="video/mp4" alt="Hecht:Rigas - startside">
-            </video>
-            <ul>
-              <li>Sparring med kunden om design og brugeroplevelse.</li>
-            </ul>
-            <p>Se websitet <a href="https://hecht-rigas.dk" target="_blank" rel="noopener noreferrer">her.</a></p>
+            <p>I dette projekt på første semester af kandidatuddannelsen har jeg sammen med min gruppe lavet et dashboard som præsenterede information om alle danske olympiske medaljevindere.</p>
+            <p>Data til dette projekt har jeg <i>scraped</i> fra engelske wikipedia sider for alle danske olympiske medaljevindere, dette inkluderer både guld, sølv og bronze. Dernæst har jeg <i>parsed</i> hver medaljevinders dertilhørende HTML for information vedrørende ID, navn, køn, fødsels- og dødsdato, fødsels- og dødssted, sport, disciplin, medaljefarve og årstal for sejren, som jeg gemte i CSV-filer.</p>
+            <p>Jeg har arbejdet med programmeringssproget Python samt elementer fra CSS i forbindelse med layoutdelen af dashboardet. Derudover har jeg brugt Python Libraries såsom BeautifulSoup, Pandas, Plotly og Dash.</p>
           </div>
         </div>
       </div>
