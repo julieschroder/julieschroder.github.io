@@ -1,673 +1,539 @@
 id,name,gender,date_of_birth,date_of_death,place_of_birth,place_of_death,sport
-1324709580,Aage Andersen,male,1 December 1883,"
-1 April 1976","
-Copenhagen, Denmark","
-Pinner, Greater London, England",Football
-1270670431,Aage Birch,male,unknown,unknown,unknown,unknown,Sailing
-1327306956,Aage Frandsen,male,18 October 1890,24 March 1968,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1279451295,Aage Høy-Petersen,male,4 November 1898,29 December 1967,"Ordrup, Denmark","Gentofte, Denmark",Sailing
-1306016906,Aage Jørgensen,male,22 January 1900,4 September 1972,"Framlev, Denmark","Skanderborg, Denmark",Gymnastics
-1291918790,Aage Larsen,male,3 August 1923,31 October 2016,"Søborggård, Denmark",unknown,Rowing
-1306016635,Aage Marius Hansen,male,27 September 1890,5 May 1980,"Dråby, Denmark","Sæby, Denmark",Gymnastics
-1306018403,Aage Walther,male,21 April 1897,5 December 1961,"Kølstrup, Denmark","Kølstrup, Denmark",Gymnastics
-1313624694,Abraham Kurland,male,10 June 1912,14 March 1999,"Odense, Syddanmark, Denmark",unknown,Wrestling
-1275805158,Aksel Bonde,male,29 May 1918,27 May 1996,"Horne, Faaborg-Midtfyn Municipality",Horsens,Rowing
-1306018333,Aksel Sørensen,male,5 October 1891,15 May 1955,"Vig, Denmark","Roskilde, Denmark",Gymnastics
-1293980975,Alex Rasmussen,male,9 June 1984,Alive,"Svendborg, Southern Denmark, Denmark",Not Applicable,Cycling
-1306016895,Alfred Frøkjær Jørgensen,male,21 December 1898,28 February 1988,"Framlev, Denmark","Aarhus, Denmark",Gymnastics
-1319691441,Alfred Ollerup Jørgensen,male,30 August 1890,26 November 1973,"Tørring, Denmark","Svendborg, Denmark",Gymnastics
-1304706477,Allan Nørregaard,male,19 March 1981,Alive,"Kolding, Denmark",Not Applicable,Sailing
-1331384917,Althea Reinhardt,female,1 September 1996,Alive,"Aarhus, Denmark",Not Applicable,Handball
-1332303041,Amalie Dideriksen,female,24 May 1996,Alive,"Kastrup, Denmark",Not Applicable,Cycling
-1265267576,Anders Andersen,male,26 October 1881,19 February 1961,"Copenhagen, Denmark","Copenhagen, Denmark",Wrestling
-1302756642,Anders Golding,male,12 May 1984,Alive,"Aalborg, Denmark",Not Applicable,Shooting
-1302757390,Anders Peter Nielsen,male,25 May 1867,16 April 1950,"Aarhus, Denmark","Copenhagen, Denmark",Shooting
-1327304731,Anders Petersen,male,unknown,unknown,unknown,unknown,Boxing
-1302757783,Anders Petersen,male,13 July 1876,8 December 1968,"Vordingborg, Denmark","Glostrup, Denmark",Shooting
-1318170627,Andreas Helgstrand,male,unknown,unknown,unknown,unknown,Equestrian
-1280318145,Andreas Rasmussen,male,unknown,unknown,unknown,unknown,Field hockey
-1331384198,Anette Hoffmann,female,5 May 1971,Alive,"Egvad, Denmark",Not Applicable,Handball
-1331383495,Anja Andersen,female,15 February 1969,Alive,"Odense, Denmark",Not Applicable,Handball
-1331384086,Anja Byrial Hansen,female,1 November 1973,Alive,"Horsens, Denmark",Not Applicable,Handball
-1331384717,Anja Nielsen,female,12 April 1975,Alive,"Kolding, Denmark",Not Applicable,Handball
-1331385061,Anne Dorthe Tanderup,female,24 April 1972,Alive,"Aarhus, Denmark",Not Applicable,Handball
-1327184511,Anne Dsane Andersen,female,10 November 1992,Alive,"Randers, Denmark",Not Applicable,Rowing
-1270710049,Anne Grethe Jensen,female,"November 7, 1951",Alive,"Vejlø, Denmark",Not Applicable,Equestrian
-1332302262,Anne Mette Hansen,female,25 August 1994,Alive,"Glostrup, Denmark",Not Applicable,Handball
-1304706559,Anne van Olst,female,unknown,unknown,unknown,unknown,Equestrian
-1317498417,Anne-Marie Rindom,female,14 June 1991,Alive,"Søllerød, Denmark",Not Applicable,Sailing
-1310779868,Anthon Olsen,male,14 September 1889,"
-17 March 1972","
-Copenhagen, Denmark","
-Gentofte, Denmark",Football
-1260902620,Arne Høyer,male,9 November 1928,2 April 2010,"Struer, Denmark","Struer, Denmark",Canoeing
-1306016867,Arne Jørgensen,male,15 July 1897,16 February 1989,"Framlev, Denmark","Sønder Årslev, Denmark",Gymnastics
-1271102169,Arne Nielsson,male,unknown,unknown,unknown,unknown,Canoeing
-1327307119,Arvor Hansen,male,5 November 1886,19 June 1962,"Copenhagen, Denmark","Frederiksberg, Denmark",Gymnastics
-1304706573,August Lindgren,male,unknown,unknown,unknown,unknown,Football
-1306016504,Axel Andersen,male,20 December 1891,15 May 1931,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1310779912,Axel Petersen,male,unknown,unknown,unknown,unknown,Football
-1304706580,Axel Pilmark,male,23 November 1925,"
-13 July 2009",unknown,unknown,Football
-1273786724,Axel Schandorff,male,3 March 1925,28 January 2016,"Copenhagen, Denmark","Copenhagen, Denmark",Cycling
-1310779944,Axel Thufason,male,unknown,unknown,unknown,unknown,Football
-1260902709,Benny Nielsen,male,unknown,unknown,unknown,unknown,Swimming
-1260902740,Bent Hansen,male,unknown,unknown,unknown,unknown,Football
-1308912054,Bent Peder Rasch,male,unknown,unknown,unknown,unknown,Canoeing
-1270710718,Bernhard Jensen,male,unknown,unknown,unknown,unknown,Canoeing
-1270329230,Birgitte Hanel,female,unknown,unknown,unknown,unknown,Rowing
-1325496738,Birte Christoffersen,male,28 March 1924,Alive,"Copenhagen, Denmark",Not Applicable,Diving
-1328236947,Bjørn Hasløv,male,18 May 1941,Alive,"Copenhagen, Denmark",Not Applicable,Rowing
-1304706590,Bjørn Rasmussen,male,unknown,unknown,unknown,unknown,Football
-1237983202,Bodil Rasmussen,female,unknown,unknown,unknown,unknown,Rowing
-1322514662,Brian Nielsen,male,1 April 1965,Alive,"Korsør, Denmark",Not Applicable,Boxing
-1270834480,Børge Raahauge Nielsen,male,unknown,unknown,unknown,unknown,Rowing
-1331383505,Camilla Andersen,female,5 July 1973,Alive,"Gentofte, Denmark",Not Applicable,Handball
-1331115318,Camilla Martin,female,23 March 1974,Alive,"Aarhus, Denmark",Not Applicable,Badminton
-1331385067,Camilla Thomsen,female,19 November 1974,Alive,"Køge, Denmark",Not Applicable,Handball
-1306016491,Carl Andersen,male,9 March 1879,12 September 1967,"Odense, Denmark","Nykøbing Falster, Denmark",Gymnastics
-1256706609,Carl Jensen,male,13 September 1882,4 April 1942,"Dronninglund, Denmark","Frederiksberg, Denmark",Wrestling
-1306017222,Carl Krebs,male,11 February 1889,15 May 1971,"Aarhus, Denmark","Slagelse, Denmark",Gymnastics
-1306017426,Carl Larsen,male,3 June 1886,4 December 1962,"Fårevejle, Denmark","Frederiksværk, Denmark",Gymnastics
-1314832283,Carl Manicus-Hansen,male,2 December 1877,23 September 1960,"Copenhagen, Denmark","Copenhagen, Danmark",Gymnastics
-1287262147,Carl Møller,male,unknown,unknown,unknown,unknown,Rowing
-1306018017,Carl Pedersen,male,25 July 1883,18 August 1971,"Rø, Denmark","Frederiksberg, Denmark",Gymnastics
-1287262157,Carl Pedersen,male,unknown,unknown,unknown,unknown,Rowing
-1229459698,Carl-Ebbe Andersen,male,19 January 1929,14 June 2009,"Roskilde, Denmark","Roskilde, Denmark",Rowing
-1327732345,Carsten Mogensen,male,24 July 1983,Alive,"Roskilde, Denmark",Not Applicable,Badminton
-1323148097,Casper Jørgensen,male,20 August 1985,Alive,unknown,Not Applicable,Cycling
-1328815057,Casper Ulrich Mortensen,male,14 December 1989,Alive,"Copenhagen, Denmark",Not Applicable,Handball
-1304706600,Casper von Folsach,male,30 March 1993,Alive,"Gentofte, Denmark",Not Applicable,Cycling
-1323968540,Cathrine Laudrup-Dufour,female,2 January 1992,Alive,"Hvalsø, Denmark",Not Applicable,Equestrian
-1310779418,Charles Buchwald,male,22 October 1880,"
-19 November 1951","
-Bjerringbro, Denmark","
-Hørsholm, Denmark",Football
-1306017157,Charles Jensen,male,24 December 1885,5 June 1920,"Bislev, Denmark","Roskilde, Denmark",Gymnastics
-1317516284,Charles Winckler,male,9 April 1867,17 December 1932,"Frederiksberg, Denmark","Frederiksberg, Denmark",Tug of war
-1323780369,Charlie Williams,male,19 November 1873,"
-29 July 1952","
-Welling, Kent, England","
-Rio de Janeiro, Brazil",Football
-1309988223,Christian Frederiksen,male,unknown,unknown,unknown,unknown,Canoeing
-1288970948,Christian Grønborg,male,unknown,unknown,unknown,unknown,Sailing
-1306016725,Christian Hansen,male,24 September 1891,13 June 1961,"Fredericia, Denmark","Copenhagen, Denmark",Gymnastics
-1287330157,Christian Hansen,male,unknown,unknown,unknown,unknown,Rowing
-1306016837,Christian Juhl,male,29 April 1898,27 September 1962,"Esbjerg, Denmark","Esbjerg, Denmark",Gymnastics
-1279451245,Christian Nielsen,male,7 April 1873,7 November 1952,"Copenhagen, Denmark","Copenhagen, Denmark",Sailing
-1327184263,Christian Pedersen,male,27 October 1889,22 March 1953,"Holstebro, Denmark","Copenhagen, Denmark",Gymnastics
-1306018353,Christian Svendsen,male,13 July 1890,28 June 1959,"Svindlinge, Denmark","Copenhagen, Denmark",Gymnastics
-1306018357,Christian Thomas,male,7 February 1896,4 October 1970,"Copenhagen, Denmark","Gentofte, Denmark",Gymnastics
-1298084086,Christian von Bülow,male,14 December 1917,13 January 2002,"Copenhagen, Denmark",unknown,Sailing
-1280804088,Christina Otzen,female,unknown,unknown,unknown,unknown,Sailing
-1331384940,Christina Roslyng,female,10 July 1978,Alive,"Juelsminde, Denmark",Not Applicable,Handball
-1318415455,Christinna Pedersen,female,12 May 1986,Alive,"Aalborg, Denmark",Not Applicable,Badminton
-1331384074,Conny Hamann,female,16 September 1969,Alive,"Sønderborg, Denmark",Not Applicable,Handball
-1272848863,Cyril Andresen,male,23 November 1929,12 September 1977,"Frederiksberg, Denmark","Gentofte, Denmark",Sailing
-1288970963,Dan Frost,male,22 May 1961,Alive,"Frederiksberg, Denmark",Not Applicable,Cycling
-1299063822,Daniel Bachmann Andersen,male,"Jun 1, 1990",Alive,"Sønderborg, Denmark",Not Applicable,Equestrian
-1304706621,Dion Ørnvold,male,unknown,unknown,unknown,unknown,Football
-1328012083,Dorte Jensen,female,20 October 1972,Alive,"Nyborg, Denmark",Not Applicable,Sailing
-1292548989,Dorthe Holm,female,3 July 1972,Alive,"Copenhagen, Denmark",Not Applicable,Curling
-1319957427,Dynes Pedersen,male,26 May 1893,28 December 1960,"Sunds, Denmark","Copenhagen, Denmark",Gymnastics
-1276456685,Ebbe Parsner,male,6 June 1922,24 October 2013,"Copenhagen, Denmark",unknown,Rowing
-1270666760,Edgar Aabye,male,14 September 1865,30 April 1941,"Helsingør, Denmark","Copenhagen, Denmark",Tug of war
-1316719261,Edi Hrnic,male,26 December 2003,Alive,Denmark,Not Applicable,Taekwondo
-1276456664,Edmund Hansen,male,9 September 1900,26 May 1995,"Odense, Denmark","Copenhagen, Denmark",Cycling
-1315046201,Eigil Nielsen,male,15 September 1918,"
-7 September 2000","
-Esbjerg, Denmark","
-Frederiksberg, Copenhagen, Denmark",Football
-1324892159,Einar Middelboe,male,25 September 1883,"
-31 December 1968","
-Arild, Sweden","
-Frederiksberg, Denmark",Football
-1306017794,Einar Olsen,male,11 March 1893,3 June 1949,"Vig, Denmark","Grevinge, Denmark",Gymnastics
-1327304991,Ejgil Clemmensen,male,unknown,unknown,unknown,unknown,Rowing
-1287997500,Ejler Allert,male,unknown,unknown,unknown,unknown,Rowing
-1327306534,Ejvind Blach,male,unknown,unknown,unknown,unknown,Field hockey
-1271102294,Ejvind Hansen,male,unknown,unknown,unknown,unknown,Canoeing
-1304706651,Ellen Osiier,female,13 August 1890,6 September 1962,"Hjørring, Nordjylland, Denmark","København, Denmark",Fencing
-1304706656,Else Jacobsen,female,"May 31, 1911","April 3, 1965",unknown,unknown,Swimming
-1330685942,Emil Jakobsen,male,24 January 1998,Alive,"Kerteminde, Denmark",Not Applicable,Handball
-1322435048,Emil Jørgensen,male,7 February 1882,"
-23 March 1947","
-Gentofte, Denmark","
-Gentofte, Denmark",Football
-1326877371,Emil Nielsen,male,10 March 1997,Alive,"Aarhus, Denmark",Not Applicable,Handball
-1332302317,Emma Friis,female,31 October 1999,Alive,"Herning, Denmark",Not Applicable,Handball
-1316736642,Emma Jørgensen,female,30 January 1996,Alive,"Bagsværd, Denmark",Not Applicable,Canoeing
-1287997845,Erik Bisgaard,male,unknown,unknown,unknown,unknown,Rowing
-1270856398,Erik Christiansen,male,unknown,unknown,unknown,unknown,Rowing
-1260903346,Erik Hansen,male,15 November 1939,30 September 2014,"Randers, Denmark",unknown,Canoeing
-1280806132,Erik Hansen,male,unknown,unknown,unknown,unknown,Sailing
-1327308057,Erik Husted,male,unknown,unknown,unknown,unknown,Field hockey
-1306017261,Erik Klem,male,25 July 1886,28 April 1965,"Tikøb, Denmark","Copenhagen, Denmark",Gymnastics
-1325475848,Erik Kuld Jensen,male,"
-10 June 1925","
-14 April 2004","
-Aarhus, Denmark",unknown,Football
-1270326351,Erik Larsen,male,20 February 1928,10 April 1952,Herfølge,Ringsted,Rowing
-1328237945,Erik Petersen,male,23 September 1939,21 February 2025,"Copenhagen, Denmark",unknown,Rowing
-1302758000,Erik Sætter-Lassen,male,15 July 1892,24 December 1966,"Gilleleje, Denmark","Helleruplund, Denmark",Shooting
-1329548005,Erling Jessen,male,31 August 1938,Alive,"Kolding, Denmark",Not Applicable,Canoeing
-1331548000,Erling Sørensen,male,29 October 1920,"
-10 October 2002","
-Copenhagen, Denmark",unknown,Football
-1319699488,Ernst Schultz,male,15 May 1879,20 June 1906,"Horsens, Denmark","Roskilde Fjord, Denmark",Athletics
-1331115155,Eskild Ebbesen,male,27 May 1972,Alive,"Silkeborg, Midtjylland",Not Applicable,Rowing
-1327306170,Eugen Schmidt,male,17 February 1862,7 October 1931,"Copenhagen, Denmark","Aalborg, Denmark",Tug of war
-1304082022,Eva Arndt,female,27 November 1919,18 June 1993,Aarhus,Gjesing,Swimming
-1304706687,Fie Udby Erichsen,female,23 April 1985,Alive,"Hobro, Mariagerfjord, Denmark",Not Applicable,Rowing
-1327184047,Finn Haunstoft,male,unknown,unknown,unknown,unknown,Canoeing
-1292756299,Finn Pedersen,male,30 July 1925,14 January 2012,"Roskilde, Denmark","Roskilde, Denmark",Rowing
-1328011647,Finn Tugwell,male,18 March 1976,Alive,"Aarhus, Denmark",Not Applicable,Table tennis
-1260903584,Flemming Nielsen,male,24 February 1934,"
-16 November 2018","
-Copenhagen, Denmark",unknown,Football
-1327307912,Frands Faber,male,unknown,unknown,unknown,unknown,Field hockey
-1306016712,Frede Hansen,male,5 April 1897,31 July 1979,"Borbjerg, Denmark","Tønder, Denmark",Gymnastics
-1304706697,Frederic Vystavel,male,29 August 1993,Alive,unknown,Not Applicable,Rowing
-1306016698,Frederik Hansen,male,2 July 1896,2 September 1962,"Malt, Denmark","Malt, Denmark",Gymnastics
-1331114520,Frederik Rodenberg,male,22 January 1998,Alive,"Værløse, Denmark",Not Applicable,Cycling
-1256597897,Fritze Carstensen,female,18 July 1925,5 August 2005,"Aarhus, Denmark","Lyngby-Taarbæk, Denmark",Swimming
-1317235085,Frode Kirkebjerg,male,unknown,unknown,unknown,unknown,Equestrian
-1269845969,Frode Sørensen,male,8 February 1912,1 August 1980,"Copenhagen, Denmark","Stockholm, Sweden",Cycling
-1327307780,Georg Albertsen,male,12 July 1889,28 April 1961,"Fredriksberg, Denmark","Gentofte, Denmark",Gymnastics
-1306018396,Georg Vest,male,18 July 1896,6 December 1977,"Brarup, Denmark","Nykøbing Falster, Denmark",Gymnastics
-1306016288,George Falcke,male,2 March 1891,1 February 1979,"Boston, Massachusetts, US","Copenhagen, Denmark",Gymnastics
-1277401728,Gergely Salim,male,"April 1, 1972",Alive,"Dar-es-Salaam, Tanzania",Not Applicable,Taekwondo
-1270999189,Gerhard Pedersen,male,unknown,unknown,unknown,unknown,Boxing
-1328879354,Gert Frank,male,15 March 1956,19 January 2019,"Hobro, Nordjylland, Denmark",unknown,Cycling
-1331384558,Gitte Madsen,female,24 March 1969,Alive,"Herning, Denmark",Not Applicable,Handball
-1331385051,Gitte Sunesen,female,11 December 1971,Alive,"Hammel, Denmark",Not Applicable,Handball
-1156815669,Gold Four,male,unknown,unknown,unknown,unknown,Rowing
-1303553571,Gotfred Johansen,male,unknown,unknown,unknown,unknown,Boxing
-1332018232,Greta Andersen,female,1 May 1927,6 February 2023,"Copenhagen, Denmark","Solvang, California, U.S.",Swimming
-1238157004,Grete Heckscher,female,8 November 1901,6 October 1987,"Copenhagen, Denmark","Syddanmark, Denmark",Fencing
-1323146494,Gunnar Asmussen,male,10 May 1944,Alive,"Aarhus, Denmark",Not Applicable,Cycling
-1327184399,Halvor Birch,male,21 February 1885,5 July 1962,"Horsens, Denmark","Copenhagen, Denmark",Gymnastics
-1260928372,Hanne Eriksen,female,unknown,unknown,unknown,unknown,Rowing
-1270656832,Hans Bjerrum,male,unknown,unknown,unknown,unknown,Field hockey
-1304706724,Hans Christian Nielsen,male,10 May 1928,5 March 1990,"Odder, Denmark","Aarhus, Denmark",Football
-1306018336,Hans Christian Sørensen,male,11 October 1900,23 January 1984,"Drigstrup, Denmark","Drigstrup, Denmark",Gymnastics
-1260903779,Hans Colberg,male,14 December 1921,"
-25 September 2007","
-Klemensker, Bornholm, Denmark",unknown,Football
-1306018062,Hans Eiler Pedersen,male,18 October 1890,1 December 1971,"Skårup, Denmark","Gentofte, Denmark",Gymnastics
-1328068800,Hans Fogh,male,8 March 1938,14 March 2014,"Rødovre, Denmark","Toronto, Ontario, Canada",Sailing
-1270656516,Hans Herlak,male,unknown,unknown,unknown,unknown,Field hockey
-1272312667,Hans Jacob Nielsen,male,unknown,unknown,unknown,unknown,Boxing
-1306017183,Hans Jakobsen,male,20 February 1895,17 October 1980,"Havrebjerg, Denmark","Odense, Denmark",Gymnastics
-1275663140,Hans Jørgen Hansen,male,unknown,unknown,unknown,unknown,Field hockey
-1277826809,Hans Kjeld Rasmussen,male,10 November 1954,February 2025,"Glostrup, Hovedstaden, Denmark",unknown,Shooting
-1306018340,Hans Laurids Sørensen,male,13 August 1901,14 November 1974,"Kirke Hvalsø, Denmark","Besser, Denmark",Gymnastics
-1288232018,Hans Lindberg,male,1 August 1981,Alive,"Høje-Taastrup, Denmark",Not Applicable,Handball
-1330597587,Hans Lunding,male,25 February 1899,5 April 1984,"Stepping, German Empire","Århus, Denmark",Equestrian
-1279444696,Hans Meulengracht-Madsen,male,9 September 1885,7 October 1966,"Vejle, Denmark","Gentofte, Denmark",Sailing
-1306018052,Hans Pedersen,male,5 November 1887,22 September 1943,"Højelse, Denmark","Kimmerslev, Denmark",Gymnastics
-1306016678,Hans Trier Hansen,male,15 May 1893,12 September 1980,"Vallekilde, Denmark","Hørve, Denmark",Gymnastics
-1271677032,Hans-Henrik Ørsted,male,13 December 1954,Alive,"Grenå, Denmark",Not Applicable,Cycling
-1296519412,Harald Bohr,male,22 April 1887,22 January 1951,"Copenhagen, Denmark","Gentofte, Denmark",Football
-1306016373,Harald Bukdahl,male,28 January 1884,12 December 1951,"Ødis, Denmark","Kastrup, Denmark",Gymnastics
-1276440954,Harald Christensen,male,9 April 1907,27 November 1994,"Kolding, Denmark","Copenhagen, Denmark",Cycling
-1310779471,Harald Hansen,male,14 March 1884,"
-10 May 1927","
-Copenhagen, Denmark","
-Aarhus, Denmark",Football
-1306017245,Harald Klem,male,21 June 1884,24 July 1954,"Tikøb, Denmark","Copenhagen, Denmark",Gymnastics
-1321362115,Harald Nielsen,male,26 October 1941,"
-11 August 2015","
-Frederikshavn, Denmark","
-Klampenborg, Denmark",Football
-1306016601,Harry Holm,male,14 September 1902,25 December 1987,"Kristrup, Denmark","Esbjerg, Denmark",Gymnastics
-1270717774,Harry Jørgensen,male,unknown,unknown,unknown,unknown,Rowing
-1270326347,Harry Knudsen,male,unknown,unknown,unknown,unknown,Rowing
-1260903871,Harry Larsen,male,4 September 1915,12 August 1974,"Kirkerup, Slagelse Municipality",Copenhagen,Rowing
-1318144402,Harry Sørensen,male,19 April 1892,14 September 1963,"Flensburg, German Empire","Aarhus, Denmark",Gymnastics
-1304706731,Hedvig Rasmussen,female,22 December 1993,Alive,"Frederiksberg, Denmark",Not Applicable,Rowing
-1331383562,Heidi Astrup,female,31 May 1972,Alive,"Viborg, Denmark",Not Applicable,Handball
-1292548922,Helena Blach Lavrsen,female,7 June 1963,Alive,"Frederiksberg, Denmark",Not Applicable,Curling
-1332302323,Helena Elver,female,1 March 1998,Alive,"Copenhagen, Denmark",Not Applicable,Handball
-1327182699,Helge Halkjær,male,unknown,unknown,unknown,unknown,Rowing
-1260903983,Helge Muxoll Schrøder,male,27 November 1924,2 March 2012,"Horsens, Denmark","Jonstorp, Sweden",Rowing
-1305699899,Helle Jespersen,female,unknown,unknown,unknown,unknown,Sailing
-1323128308,Helmuth Nyborg,male,5 January 1937,Alive,unknown,Not Applicable,Canoeing
-1289293395,Henning Enoksen,male,26 September 1935,"
-25 September 2016","
-Sejerslev, Morsø, Denmark","
-Grenaa, Denmark",Football
-1282671977,Henning Holst,male,unknown,unknown,unknown,unknown,Field hockey
-1271093330,Henning Lynge Jakobsen,male,unknown,unknown,unknown,unknown,Canoeing
-1330052089,Henning Wind,male,19 January 1937,20 July 2025,"Copenhagen, Denmark",unknown,Sailing
-1331384624,Henriette Mikkelsen,female,21 September 1980,Alive,"Nykøbing Mors, Denmark",Not Applicable,Handball
-1326513165,Henrik Blakskjær,male,unknown,unknown,unknown,unknown,Sailing
-1304706746,Henrik Hansen,male,26 May 1920,23 August 2010,"Melby, Denmark","North Stonington, Connecticut, U.S.",Wrestling
-1332183938,Henrik Møllgaard,male,2 January 1985,Alive,"Bramming, Denmark",Not Applicable,Handball
-1326877917,Henrik Toft Hansen,male,18 December 1986,Alive,"Skive, Denmark",Not Applicable,Handball
-1260904131,Henry From,male,"
-1 June 1926","
-31 August 1990","
-Aarhus, Denmark","
-Aarhus, Denmark",Football
-1309285346,Henry Hansen,male,16 March 1902,28 March 1985,"Copenhagen, Denmark","Gentofte, Denmark",Cycling
-1270326350,Henry Larsen,male,unknown,unknown,unknown,unknown,Rowing
-1329363748,Henry Petersen,male,1 October 1900,24 September 1949,"Ring, Horsens, Denmark","Copenhagen, Denmark",Athletics
-1324807774,Henry Rambusch,male,16 October 1881,"
-20 May 1954","
-Aarhus, Denmark","
-Copenhagen, Denmark",Football
-1306017172,Herold Jansson,male,13 November 1899,23 April 1965,"Copenhagen, Denmark","Frederiksberg, Denmark",Gymnastics
-1310779313,Hjalmar Christoffersen,male,1 December 1889,"
-28 December 1966","
-Copenhagen, Denmark","
-Copenhagen, Denmark",Football
-1289202125,Hjalmar Heerup,male,14 April 1886,"
-18 November 1961","
-Frederiksværk, Denmark","
-Odense, Denmark",Football
-1306016928,Hjalmar Peter Johansen,male,1 November 1892,9 December 1979,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1306016480,Hjalmart Andersen,male,11 October 1889,23 January 1974,"Stubbekøbing, Denmark","Risskov, Denmark",Gymnastics
-1317516270,Holger Nielsen,male,unknown,unknown,unknown,unknown,Shooting
-1304706748,Holger Seebach,male,17 March 1922,"
-30 August 2011","
-Aarhus, Denmark","
-Odense, Denmark",Football
-1306016614,Hugo Helsten,male,15 September 1894,25 May 1978,"Frederikshavn, Denmark","Esbjerg, Denmark",Gymnastics
-1275663925,Ib Larsen,male,1 April 1945,Alive,Kongens Lyngby,Not Applicable,Rowing
-1270825912,Ib Olsen,male,unknown,unknown,unknown,unknown,Rowing
-1281812372,Ib Storm Larsen,male,unknown,unknown,unknown,unknown,Rowing
-1276850101,Inge Sørensen,female,18 July 1924,9 March 2011,"Skovshoved, Denmark","New Jersey, US",Swimming
-1306016307,Ingvald Eriksen,male,3 September 1884,28 January 1961,"Odense, Denmark","Odense, Denmark",Gymnastics
-1260904224,Ivan Jensen,male,unknown,unknown,unknown,unknown,Football
-1271345867,Ivan Joseph Martin Osiier,male,"December 16, 1888","December 23, 1965","Copenhagen, Denmark","Copenhagen, Denmark",Fencing
-1310779629,Ivar Lykke,male,unknown,unknown,unknown,unknown,Football
-1309791208,Jacob Barsøe,male,21 September 1988,Alive,"Vejle, Denmark",Not Applicable,Rowing
-1319219825,Jacob Holm,male,5 September 1995,Alive,"Esbjerg, Denmark",Not Applicable,Handball
-1304706755,Jacob Larsen,male,unknown,unknown,unknown,unknown,Rowing
-1319937223,Jakob Fuglsang,male,22 March 1985,Alive,"Geneva, Switzerland",Not Applicable,Cycling
-1288964650,Jan Mathiasen,male,unknown,unknown,unknown,unknown,Sailing
-1270325731,Jan Petersen,male,28 July 1970,Alive,"Næstved, Denmark",Not Applicable,Cycling
-1254507837,Jane Bidstrup,female,unknown,unknown,unknown,unknown,Curling
-1331384430,Janne Kolling,female,12 July 1968,Alive,"Aarhus, Denmark",Not Applicable,Handball
-1326877396,Jannick Green,male,29 September 1988,Alive,"Lemvig, Denmark",Not Applicable,Handball
-1331115134,Jeanette Ottesen,female,30 December 1987,Alive,"Kongens Lyngby, Denmark",Not Applicable,Swimming
-1328751630,Jena Hansen,female,10 December 1988,Alive,unknown,Not Applicable,Sailing
-1327305036,Jens Bojsen-Møller,male,unknown,unknown,unknown,unknown,Sailing
-1320063144,Jens Eriksen,male,30 December 1969,Alive,"Glostrup, Hovedstaden, Denmark",Not Applicable,Badminton
-1302756686,Jens Hajslund,male,29 May 1877,28 August 1964,"Hjelm, Midtjylland, Denmark","Struer, Midtjylland, Denmark",Shooting
-1318371463,Jens Kirkegaard,male,1 June 1889,20 April 1966,"Lindum, Denmark","Randers, Denmark",Gymnastics
-1306017110,Jens Kristian Jensen,male,22 March 1885,27 March 1956,"Pedersborg, Denmark","Vordingborg, Denmark",Gymnastics
-1306017460,Jens Lambæk,male,16 October 1899,21 October 1985,"Gjellerup, Denmark","Herning, Denmark",Gymnastics
-1306017380,Jens Laursen,male,1 January 1888,23 May 1967,"Tulstrup, Denmark","Frederiksberg, Denmark",Gymnastics
-1256107806,Jens-Erik Madsen,male,30 March 1981,Alive,unknown,Not Applicable,Cycling
-1331114096,Jesper Bank,male,unknown,unknown,unknown,unknown,Sailing
-1304706810,Jesper Hansen,male,unknown,unknown,unknown,unknown,Shooting
-1310384162,Jesper Nøddesbo,male,23 October 1980,Alive,"Herning, Denmark",Not Applicable,Handball
-1331114112,Jesper Seier,male,unknown,unknown,unknown,unknown,Sailing
-1227446944,Jette Sørensen,female,unknown,unknown,unknown,unknown,Rowing
-1309286843,Jimmi Madsen,male,4 January 1969,Alive,"Copenhagen, Denmark",Not Applicable,Cycling
-1319708365,Joachim B. Olsen,male,31 May 1977,Alive,"Aalborg, Denmark",Not Applicable,Athletics
-1278029334,Joachim Fischer Nielsen,male,23 November 1978,Alive,"Gentofte, Denmark",Not Applicable,Badminton
-1304706817,Joachim Sutton,male,15 May 1995,Alive,Denmark,Not Applicable,Rowing
-1327298552,Johan Andersen,male,unknown,unknown,unknown,unknown,Canoeing
-1306016410,Johannes Birk,male,5 September 1893,18 February 1961,"Gjellerup, Denmark","Herning, Denmark",Gymnastics
-1275803801,Johannes Eriksen,male,12 July 1889,25 June 1963,"Frederiksberg, Denmark","Frederiksberg, Denmark",Wrestling
-1317493718,Johannes Gandil,male,unknown,unknown,unknown,unknown,Football
-1306016664,Johannes Hansen,male,6 December 1882,20 October 1959,"Malt, Denmark","Gentofte, Denmark",Gymnastics
-1306018069,Johannes Pedersen,male,26 April 1892,17 January 1982,"Kimmerslev, Denmark","Roskilde, Denmark",Gymnastics
-1260904553,Johannes Pløger,male,3 April 1922,"
-4 February 1991","
-Frederiksberg, Denmark","
-Frederiksberg, Denmark",Football
-1306018399,Johannes Vinther,male,5 January 1893,24 May 1968,"Nørre Broby, Denmark","Oure, Denmark",Gymnastics
-1324898367,John Danielsen,male,13 July 1939,Alive,"
-Odense, Denmark",Not Applicable,Football
-1322514922,John Hansen,male,"
-24 June 1924","
-12 January 1990","
-Copenhagen, Denmark","
-Copenhagen, Denmark",Football
-1328245650,John Hansen,male,8 October 1938,Alive,"Copenhagen, Denmark",Not Applicable,Rowing
-1321741941,John Sørensen,male,5 October 1934,26 October 2024,"Copenhagen, Denmark",unknown,Canoeing
-1318739415,Jonas Høgh-Christensen,male,21 May 1981,Alive,"Copenhagen, Denmark",Not Applicable,Sailing
-1304706832,Jonas Warrer,male,22 March 1979,Alive,"Aarhus, Denmark",Not Applicable,Sailing
-1331385098,Josephine Touray,female,10 June 1979,Alive,"Aarhus, Denmark",Not Applicable,Handball
-1294556775,Julie Norman Leth,female,13 July 1992,Alive,"Aarhus, Denmark",Not Applicable,Cycling
-1326877483,Jóhan Hansen,male,1 May 1994,Alive,"Tórshavn, Faroe Islands",Not Applicable,Handball
-1280807665,Jørgen Bojsen-Møller,male,unknown,unknown,unknown,unknown,Sailing
-1270679179,Jørgen Frantzen,male,unknown,unknown,unknown,unknown,Rowing
-1269848000,Jørgen Hansen,male,7 December 1942,Alive,"Copenhagen, Denmark",Not Applicable,Cycling
-1260904853,Jørgen Leschly Sørensen,male,24 September 1922,"
-21 February 1999","
-Lumby, Denmark","
-Odense, Denmark",Football
-1306018168,Jørgen Ravn,male,9 January 1884,1 December 1962,"Horbelev, Denmark","Silkeborg, Denmark",Gymnastics
-1304706842,Jørgen W. Hansen,male,15 September 1925,"
-17 July 1969","
-Frederiksberg, Denmark","
-Holbæk, Denmark",Football
-1270725954,Jørn Krab,male,unknown,unknown,unknown,unknown,Rowing
-1323148824,Jørn Lund,male,26 August 1944,Alive,"Astrup, Mariagerfjord, Denmark",Not Applicable,Cycling
-1321310008,Jørn Sørensen,male,17 October 1936,Alive,"
-Nibe, Denmark",Not Applicable,Football
-1327307092,Kaj Gnudtzmann,male,1 May 1880,22 September 1948,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1327741993,Kamilla Rytter Juhl,female,23 November 1983,Alive,"Skagen, Denmark",Not Applicable,Badminton
-1331383767,Karen Brødsgaard,female,10 March 1978,Alive,"Horsens, Denmark",Not Applicable,Handball
-1276415639,Karen Harup,female,20 November 1924,9 July 2009,"Skovshoved, Denmark","Copenhagen, Denmark",Swimming
-1228411721,Karen Hoff,female,29 May 1921,29 February 2000,"Vorup, Denmark",unknown,Canoeing
-1273545551,Karen Lachmann,female,30 May 1916,30 September 1962,"Peking, China","Gentofte, Denmark",Fencing
-1331384690,Karin Mortensen,female,26 September 1977,Alive,"Horsens, Denmark",Not Applicable,Handball
-1322514946,Karl Aage Hansen,male,"
-4 July 1921","
-23 November 1990","
-Mesinge, Denmark",unknown,Football
-1274802054,Karl Aage Præst,male,26 February 1922,"
-19 November 2011","
-Copenhagen, Denmark","
-Frederiksberg, Denmark",Football
-1306017332,Karl Kirk,male,5 April 1890,6 March 1955,"Sønder Nærå, Denmark","Aarhus, Denmark",Gymnastics
-1323147636,Kasper Søndergaard,male,9 June 1981,Alive,"Skive, Denmark",Not Applicable,Handball
-1304706854,Kasper Winther Jørgensen,male,unknown,unknown,unknown,unknown,Rowing
-1331384176,Kathrine Heindahl,female,26 March 1992,Alive,"Rudersdal, Denmark",Not Applicable,Handball
-1328883858,Katja Salskov-Iversen,female,19 August 1994,Alive,unknown,Not Applicable,Sailing
-1331383988,Katrine Fruelund,female,12 July 1978,Alive,"Randers, Denmark",Not Applicable,Handball
-1273316241,Ken Frost,male,15 February 1967,Alive,"Rødovre, Denmark",Not Applicable,Cycling
-1331431026,Kevin Møller,male,20 June 1989,Alive,"Løgumkloster, Tønder, Denmark",Not Applicable,Handball
-1327306225,Kim Wraae Knudsen,male,unknown,unknown,unknown,unknown,Canoeing
-1317632620,Kjell Rodian,male,30 June 1942,29 December 2007,"Frederiksberg, Denmark","Copenhagen, Denmark",Cycling
-1272848864,Klaus Baess,male,10 November 1924,16 September 2018,"Frederiksberg, Denmark",unknown,Sailing
-1319923921,Klaus Kynde Nielsen,male,13 April 1966,Alive,"Aarhus, Denmark",Not Applicable,Cycling
-1304706896,Knud Bastrup-Birk,male,12 December 1919,"
-25 August 1973","
-Copenhagen, Denmark","
-Gentofte, Denmark",Football
-1304706907,Knud Børge Overgaard,male,21 March 1918,"
-20 October 1985",unknown,unknown,Football
-1279451234,Knud Degn,male,11 May 1880,16 May 1965,"Esbønderup, Gribskov, Denmark","Copenhagen, Denmark",Sailing
-1327307195,Knud Holm,male,2 January 1887,28 May 1972,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1306017312,Knud Kirkeløkke,male,10 November 1892,7 February 1976,"Hellerup, Denmark",unknown,Gymnastics
-1325460099,Knud Lundberg,male,14 May 1920,12 August 2002,"Copenhagen, Denmark",Gentofte,Football
-1327307674,Knud Vermehren,male,19 December 1890,1 January 1985,"Copenhagen, Denmark","Gentofte, Denmark",Gymnastics
-1306018384,Kristen Vadgaard,male,2 June 1886,16 February 1979,"Stenild, Denmark","Gjern, Denmark",Gymnastics
-1306016652,Kristian Hansen,male,28 January 1895,13 June 1955,"Everdrup, Denmark","Hammer, Næstved, Denmark",Gymnastics
-1306017412,Kristian Larsen,male,2 February 1895,19 June 1972,"Bjergsted, Denmark","Ubby, Denmark",Gymnastics
-1306017745,Kristian Madsen,male,12 February 1893,10 March 1988,"Bøvling, Denmark","Holstebro, Denmark",Gymnastics
-1329369052,Kristian Middelboe,male,unknown,unknown,unknown,unknown,Football
-1327307559,Kristian Pedersen,male,14 March 1878,8 March 1917,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1332302310,Kristina Jørgensen,female,17 January 1998,Alive,"Horsens, Denmark",Not Applicable,Handball
-1331383520,Kristine Andersen,female,2 April 1976,Alive,"Aalborg, Denmark",Not Applicable,Handball
-1270835263,Kristine Roug,male,unknown,unknown,unknown,unknown,Sailing
-1328362199,Kurt Helmudt,male,7 December 1943,7 September 2018,"Copenhagen, Denmark",unknown,Rowing
-1302757273,Lars Jørgen Madsen,male,19 July 1871,1 April 1925,"Beldringe, Denmark","Harridslev, Randers, Denmark",Shooting
-1327304861,Lars Nielsen,male,unknown,unknown,unknown,unknown,Rowing
-1326877496,Lasse Andersson,male,11 March 1994,Alive,"Copenhagen, Denmark",Not Applicable,Handball
-1331114592,Lasse Norman Leth,male,11 February 1992,Alive,"Faaborg, Denmark",Not Applicable,Cycling
-1326877798,Lasse Svan Hansen,male,31 August 1983,Alive,"Stevns, Denmark",Not Applicable,Handball
-1286866227,Laurits Larsen,male,8 April 1872,28 June 1949,unknown,unknown,Shooting
-1323148281,Leif Mortensen,male,5 May 1946,Alive,"Copenhagen, Denmark",Not Applicable,Cycling
-1331384898,Lene Rantala,female,10 August 1968,Alive,"Gladsaxe, Denmark",Not Applicable,Handball
-1276413077,Leo Nielsen,male,5 March 1909,15 June 1968,"Randers, Denmark","Copenhagen, Denmark",Cycling
-1319696339,Lily Carlstedt,female,unknown,unknown,unknown,unknown,Athletics
-1331383833,Line Daugaard,female,17 July 1978,Alive,"Herning, Denmark",Not Applicable,Handball
-1332302283,Line Haugsted,female,11 November 1994,Alive,"Skive, Denmark",Not Applicable,Handball
-1287391137,Lis Hartel,female,"March 14, 1921","February 12, 2009",unknown,unknown,Equestrian
-1331115103,Lotte Friis,female,9 February 1988,Alive,"Blovstrød, Denmark",Not Applicable,Swimming
-1331384383,Lotte Kiærskou,female,23 June 1975,Alive,"Frederikshavn, Denmark",Not Applicable,Handball
-1270329159,Lotte Koefoed,female,unknown,unknown,unknown,unknown,Rowing
-1327307267,Louis Larsen,male,10 January 1874,26 May 1950,"Copenhagen, Denmark","Hellerup, Denmark",Gymnastics
-1331383576,Louise Bager Due,female,23 April 1982,Alive,"Dronninglund, Denmark",Not Applicable,Handball
-1331383780,Louise Burgaard,male,17 October 1992,Alive,"Esbjerg, Denmark",Not Applicable,Handball
-1304706938,Ludvig Dam,male,"March 24, 1884","March 29, 1972","Sjælland, Denmark","Odense, Denmark",Swimming
-1324902050,Ludvig Drescher,male,21 July 1881,"
-14 July 1917","
-Sønderborg, Denmark","
-Copenhagen, Denmark",Football
-1326877464,Lukas Jørgensen,male,31 March 1999,Alive,"Lejre, Denmark",Not Applicable,Handball
-1306017557,Lukas Nielsen,male,23 December 1884,29 April 1964,"Malmö, Sweden","Copenhagen, Denmark",Gymnastics
-1250991619,Mads Andersen,male,unknown,unknown,unknown,unknown,Rowing
-1316781076,Mads Christiansen,male,3 May 1986,Alive,"Næstved, Denmark",Not Applicable,Handball
-1326877446,Mads Mensah Larsen,male,12 August 1991,Alive,"Holbæk, Denmark",Not Applicable,Handball
-1331115066,Mads Rasmussen,male,unknown,unknown,unknown,unknown,Rowing
-1326877330,Magnus Landin Jacobsen,male,20 August 1995,Alive,"Søborg, Denmark",Not Applicable,Handball
-1326877383,Magnus Saugstrup,male,12 July 1996,Alive,"Aalborg, Denmark",Not Applicable,Handball
-1331384028,Maja Grønbæk,female,30 January 1971,Alive,"Amager, Denmark",Not Applicable,Handball
-1332288433,Margit Pörtner,female,"February 16, 1972","April 26, 2017","Hørsholm, Denmark",Denmark,Curling
-1331383957,Marianne Florman,female,1 June 1964,Alive,"Frederiksberg, Copenhagen, Denmark",Not Applicable,Handball
-1332192667,Marius Lefevre,male,4 May 1875,14 March 1958,"Odense, Denmark","Gentofte, Denmark",Gymnastics
-1306018323,Marius Skram-Jensen,male,1 March 1881,17 January 1975,"Slagelse, Denmark","Harriman, Tennessee, US",Gymnastics
-1306018381,Marius Thuesen,male,23 January 1878,12 July 1941,"Holbæk, Denmark","Copenhagen, Denmark",Gymnastics
-1323238108,Mark Madsen,male,23 September 1984,Alive,"Nykøbing Falster, Denmark",Not Applicable,Wrestling
-1304706952,Martin Kirketerp,male,unknown,unknown,unknown,unknown,Sailing
-1329374012,Mathias Boe,male,11 July 1980,Alive,"Frederikssund, Denmark",Not Applicable,Badminton
-1332177799,Mathias Gidsel,male,8 February 1999,Alive,"Skjern, Denmark",Not Applicable,Handball
-1320223276,Mette Schjoldager,female,21 April 1977,Alive,"Viby,  Roskilde Municipality, Denmark",Not Applicable,Badminton
-1331385101,Mette Tranborg,female,1 January 1996,Alive,"Aarhus, Denmark",Not Applicable,Handball
-1331385128,Mette Vestergaard,female,27 November 1975,Alive,"Taastrup, Denmark",Not Applicable,Handball
-1326877670,Michael Damgaard,male,18 March 1990,Alive,"Rødby, Denmark",Not Applicable,Handball
-1304706966,Michael Færk Christensen,male,14 February 1986,Alive,"Hobro, Denmark",Not Applicable,Cycling
-1272848920,Michael Jessen,male,unknown,unknown,unknown,unknown,Rowing
-1259430679,Michael Maze,male,1 September 1981,Alive,"Faxe, Denmark",Not Applicable,Table tennis
-1316077874,Michael Michaelsen,male,unknown,unknown,unknown,unknown,Boxing
-1331010807,Michael Mørkøv,male,30 April 1985,Alive,"Kokkedal, Denmark",Not Applicable,Cycling
-1276402765,Michael Sandstød,male,23 June 1968,Alive,"Copenhagen, Denmark",Not Applicable,Cycling
-1332302250,Michala Møller,female,16 February 2000,Alive,"Aalborg, Denmark",Not Applicable,Handball
-1331384217,Mie Højlund,female,24 October 1997,Alive,"Voldum, Favrskov, Denmark",Not Applicable,Handball
-1328496019,Mie Nielsen,female,25 September 1996,Alive,"Aalborg, Denmark",Not Applicable,Swimming
-1286757248,Mikael Simonsen,male,unknown,unknown,unknown,unknown,Rowing
-1326877692,Mikkel Hansen,male,22 October 1987,Alive,"Helsingør, Denmark",Not Applicable,Handball
-1328171288,Mogens Frey,male,2 July 1941,Alive,"Glostrup, Denmark",Not Applicable,Cycling
-1271958878,Morten Jørgensen,male,unknown,unknown,unknown,unknown,Rowing
-1326877812,Morten Olsen,male,11 October 1984,Alive,"Osted, Denmark",Not Applicable,Handball
-1304707008,Nanna Merrald Rasmussen,female,"Oct 8, 1993",Alive,"Hvalsø, Denmark",Not Applicable,Equestrian
-1330765689,Niclas Kirkeløkke,male,26 March 1994,Alive,"Ringe, Denmark",Not Applicable,Handball
-1282316884,Niels Andersen,male,14 May 1867,9 October 1930,"Skibinge, Denmark","Hyllinge, Denmark",Shooting
-1327306652,Niels Blach,male,unknown,unknown,unknown,unknown,Field hockey
-1306017523,Niels Cristian Nielsen,male,10 January 1897,12 April 1972,"Ubby, Denmark","Slagelse, Denmark",Gymnastics
-1306017540,Niels Erik Nielsen,male,1 May 1893,4 March 1974,"Ringe, Denmark","Ringe, Denmark",Gymnastics
-1328540293,Niels Fredborg,male,28 October 1946,Alive,"Odder, Denmark",Not Applicable,Cycling
-1270329384,Niels Henriksen,male,4 February 1966,Alive,"Gentofte, Denmark",Not Applicable,Rowing
-1329228509,Niels Larsen,male,21 November 1889,15 November 1969,"Horsens, Denmark","Syddanmark, Denmark",Shooting
-1271916973,Niels Markussen,male,6 September 1934,11 July 2008,"Helsingør, Denmark",unknown,Sailing
-1279451273,Niels Otto Møller,male,7 November 1897,14 April 1966,"Frederiksberg, Denmark","Stevns, Denmark",Sailing
-1327307588,Niels Petersen,male,12 July 1885,29 August 1961,"Copenhagen, Denmark","Søllerød, Denmark",Gymnastics
-1327307953,Niels Turin Nielsen,male,22 January 1887,9 June 1964,"Frederiksberg, Denmark","Frederiksberg, Denmark",Gymnastics
-1326877736,Niklas Landin Jacobsen,male,19 December 1988,Alive,"Søborg, Denmark",Not Applicable,Handball
-1319758210,Niklas Larsen,male,22 March 1997,Alive,"Slagelse, Denmark",Not Applicable,Cycling
-1317516473,Nils Middelboe,male,5 October 1887,"
-21 September 1976","
-Brunnby, Sweden","
-Frederiksberg, Denmark",Football
-1306017286,Olaf Kjems,male,31 May 1880,11 April 1952,"Odder, Denmark","Vester Vedsted, Denmark",Gymnastics
-1306018075,Olaf Pedersen,male,6 July 1884,6 April 1972,"Stubberup, Denmark","Stubberup, Denmark",Gymnastics
-1270329183,Ole Berntsen,male,22 January 1915,26 May 1996,"Hellerup, Gentofte, Denmark","Gentofte, Denmark",Sailing
-1329517517,Ole Gunnar Petersen,male,30 December 1934,Alive,"Frederiksberg, Denmark",Not Applicable,Sailing
-1302757666,Ole Olsen,male,7 June 1869,7 September 1944,"Lynge, Denmark","Copenhagen, Denmark",Shooting
-1323147436,Ole Poulsen,male,16 December 1941,Alive,"Maglegård, Denmark",Not Applicable,Sailing
-1304707055,Ole Riber Rasmussen,male,unknown,unknown,unknown,unknown,Shooting
-1327307534,Oluf Olsson,male,30 May 1873,25 June 1947,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1282316903,Orla Jørgensen,male,25 May 1904,29 June 1947,"Gentofte, Denmark","Gentofte, Denmark",Cycling
-1310779833,Oskar Nørland,male,4 October 1882,"
-18 May 1941","
-Roskilde, Denmark","
-Frederiksberg, Denmark",Football
-1304707061,Ove Jensen,male,7 November 1919,"
-22 April 2011","
-Copenhagen, Denmark","
-Hellerup, Denmark",Football
-1310779519,Paul Berth,male,7 April 1890,"
-9 November 1969","
-Copenhagen, Denmark","
-Gentofte, Denmark",Football
-1331797361,Paul Elvstrøm,male,25 February 1928,7 December 2016,"Hellerup, Denmark","Hellerup, Denmark",Sailing
-1304707071,Paul Lindemark Jørgensen,male,unknown,unknown,unknown,unknown,Sailing
-1327306844,Paul Metz,male,unknown,unknown,unknown,unknown,Field hockey
-1321647376,Peder Dorf Pedersen,male,28 January 1897,13 September 1967,"Rostrup, Denmark",unknown,Gymnastics
-1306017892,Peder Larsen Pedersen,male,30 November 1880,20 January 1966,"Stubberup, Denmark","Kerteminde, Denmark",Gymnastics
-1278040655,Peder Lykkeberg,male,11 February 1878,23 December 1944,"Skanderborg, Denmark","Copenhagen, Denmark",Swimming
-1306017670,Peder Marcussen,male,26 November 1894,16 December 1972,"Guldager, Denmark","Esbjerg, Denmark",Gymnastics
-1309293030,Peder Pedersen,male,3 November 1945,9 January 2015,"Nørre Nærå, Syddanmark, Denmark","Odense, Denmark",Cycling
-1327304946,Peer Nielsen,male,unknown,unknown,unknown,unknown,Canoeing
-1327183689,Per Kjærgaard Nielsen,male,unknown,unknown,unknown,unknown,Sailing
-1304707090,Per Knudsen,male,2 June 1925,"
-8 February 1999","
-Aarhus, Denmark","
-Viby J, Denmark",Football
-1309293067,Per Lyngemark,male,23 May 1941,2 April 2010,"Frederiksberg, Denmark",unknown,Cycling
-1275663167,Per Rasmussen,male,unknown,unknown,unknown,unknown,Rowing
-1331114734,Pernille Blume,female,14 May 1994,Alive,"Herlev, Denmark",Not Applicable,Swimming
-1306016467,Peter Andersen,male,9 April 1884,25 September 1956,Højby,"Egebjerg, Odsherred Municipality, Denmark",Gymnastics
-1323148546,Peter Christiansen,male,4 April 1941,Alive,"Frederiksberg, Denmark",Not Applicable,Rowing
-1327183665,Peter Due,male,unknown,unknown,unknown,unknown,Sailing
-1270331670,Peter Jørgensen,male,2 April 1907,27 August 1992,"Hillerød, Denmark",unknown,Boxing
-1304707128,Peter Lang,male,12 June 1989,Alive,"Vejle, Denmark",Not Applicable,Sailing
-1270669005,Peter Marius Andersen,male,"
-25 April 1885","
-20 March 1972","
-Copenhagen, Denmark","
-Copenhagen, Denmark",Football
-1327307306,Peter Møller,male,28 February 1897,17 October 1984,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1293401411,Peter Schlütter,male,25 November 1893,6 April 1959,"Copenhagen, Denmark","Copenhagen, Denmark",Sailing
-1304707163,Poul Andersen,male,2 January 1930,"
-30 December 1995",unknown,unknown,Football
-1275806458,Poul Hansen,male,20 October 1891,29 October 1948,"Ubberud, Odense Municipality, Denmark","Aarhus, Denmark",Wrestling
-1304707210,Poul Hartmann,male,unknown,unknown,unknown,unknown,Rowing
-1304707244,Poul Jensen,male,28 March 1934,"
-6 July 2022","
-Vejle, Denmark",unknown,Football
-1306016848,Poul Jørgensen,male,17 February 1892,6 October 1973,"Nykøbing Falster, Denmark","Copenhagen, Denmark",Gymnastics
-1306017655,Poul Mark,male,19 June 1889,18 January 1957,"Erslev, Denmark","Odense, Denmark",Gymnastics
-1325462703,Poul Mejer,male,2 November 1931,"
-9 January 2000","
-Vejle, Denmark",unknown,Football
-1305246184,Poul Nielsen,male,25 December 1891,"
-9 August 1962","
-Copenhagen, Denmark","
-Copenhagen, Denmark",Football
-1285915557,Poul Pedersen,male,31 October 1932,"
-23 December 2016","
-Århus, Denmark",unknown,Football
-1320168430,Poul Petersen,male,11 April 1921,"
-31 May 1997","
-Copenhagen, Denmark","
-Tisvildeleje, Denmark",Football
-1328165909,Poul Richard Høj Jensen,male,2 June 1944,Alive,"Copenhagen, Denmark",Not Applicable,Sailing
-1263456074,Poul Svendsen,male,unknown,unknown,unknown,unknown,Rowing
-1286704886,Poul Thymann,male,unknown,unknown,unknown,unknown,Rowing
-1301221236,Poul-Erik Høyer Larsen,male,20 September 1965,Alive,"Helsinge, Denmark",Not Applicable,Badminton
-1309293709,Preben Isaksson,male,22 January 1943,27 December 2008,"Copenhagen, Denmark","Greve, Denmark",Cycling
-1270327973,Preben Krab,male,unknown,unknown,unknown,unknown,Rowing
-1321099392,Princess Nathalie of Sayn-Wittgenstein-Berleburg,male,2 May 1975,Alive,"Copenhagen, Denmark",Not Applicable,Equestrian
-1323173998,Ragnhild Hveger,female,10 December 1920,1 December 2011,"Nyborg, Denmark",unknown,Swimming
-1286703779,Rasmus Frandsen,male,unknown,unknown,unknown,unknown,Rowing
-1306016626,Rasmus Hansen,male,13 January 1885,3 July 1967,"Flemløse, Denmark","Viby J, Denmark",Gymnastics
-1326877358,Rasmus Lauge,male,20 June 1991,Alive,"Randers, Denmark",Not Applicable,Handball
-1331114509,Rasmus Pedersen,male,9 July 1998,Alive,"Odense, Denmark",Not Applicable,Cycling
-1257790708,Rasmus Quaade,male,7 January 1990,Alive,"Valby, Denmark",Not Applicable,Cycling
-1331114952,Rasmus Quist Hansen,male,unknown,unknown,unknown,unknown,Rowing
-1306018156,Rasmus Rasmussen,male,26 May 1899,11 April 1974,"Viby, Kerteminde, Denmark","Odense, Denmark",Gymnastics
-1323147331,Reno Olsen,male,19 February 1947,Alive,"Roskilde, Denmark",Not Applicable,Cycling
-1331114748,René Holten Poulsen,male,28 November 1988,Alive,"Sakskøbing, Denmark",Not Applicable,Canoeing
-1326877952,René Toft Hansen,male,1 November 1984,Alive,"Skive, Denmark",Not Applicable,Handball
-1268226559,Richard Olsen,male,31 October 1911,13 February 1956,Sorø,Sorø,Rowing
-1327307342,Rikard Nordstrøm,male,23 April 1893,7 February 1955,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1331384228,Rikke Hørlykke,female,2 May 1976,Alive,unknown,Not Applicable,Handball
-1331384278,Rikke Iversen,female,18 May 1993,Alive,"Nykøbing Falster, Denmark",Not Applicable,Handball
-1282714998,Rikke Møller Pedersen,female,9 January 1989,Alive,"Odense, Denmark",Not Applicable,Swimming
-1331384873,Rikke Petersen-Schmidt,female,14 January 1975,Alive,"Aarhus, Denmark",Not Applicable,Handball
-1331384994,Rikke Skov,female,7 September 1980,Alive,"Viborg, Denmark",Not Applicable,Handball
-1327307234,Robert Johnsen,male,23 June 1896,31 August 1975,"Copenhagen, Denmark","Gentofte, Denmark",Gymnastics
-1306017732,Robert Madsen,male,13 December 1882,24 September 1954,"Odense, Denmark","Copenhagen, Denmark",Gymnastics
-1328932596,Rolf Sørensen,male,20 April 1965,Alive,"Helsinge, Denmark",Not Applicable,Cycling
-1327306912,Rudolf Andersen,male,11 August 1899,7 July 1983,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1331385093,Sandra Toft,female,18 October 1989,Alive,"Gribskov, Denmark",Not Applicable,Handball
-1319708526,Sara Petersen,female,9 April 1987,Alive,"Nykøbing Falster, Denmark",Not Applicable,Athletics
-1331384285,Sarah Iversen,female,10 April 1990,Alive,"Frederiksberg, Denmark",Not Applicable,Handball
-1304707423,Signe Livbjerg,female,unknown,unknown,unknown,unknown,Sailing
-1326877522,Simon Hald,male,28 September 1994,Alive,"Aalborg, Denmark",Not Applicable,Handball
-1328423479,Simon Pytlick,male,11 December 2000,Alive,"Thurø, Denmark",Not Applicable,Handball
-1199392751,Sofie Castenschiold,female,1 February 1882,30 January 1979,"Copenhagen, Denmark","Helsingborg, Sweden",Tennis
-1310779394,Sophus Hansen,male,16 November 1889,"
-19 February 1962","
-Copenhagen, Denmark","
-Copenhagen, Denmark",Football
-1315430390,Sophus Nielsen,male,15 March 1888,"
-6 August 1963","
-Copenhagen, Denmark","
-Copenhagen, Denmark",Football
-1272848868,Steen Christensen,male,1 November 1941,Alive,Frederiksberg,Not Applicable,Sailing
-1327306812,Steen Due,male,unknown,unknown,unknown,unknown,Field hockey
-1279444691,Steen Herschend,male,12 November 1888,3 August 1976,"Copenhagen, Denmark","Taarbæk, Lyngby-Taarbæk",Sailing
-1327307481,Steen Olsen,male,17 June 1886,5 May 1960,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1331114135,Steen Secher,male,unknown,unknown,unknown,unknown,Sailing
-1286001729,Stefan Rasmussen,male,11 April 1880,"
-3 March 1951","
-Copenhagen, Denmark","
-Gentofte, Denmark",Football
-1260928369,Stefanie Clausen,female,"April 1, 1900","August 2, 1981","Vesterbro, Denmark","Fredensborg, Denmark",Diving
-1241122372,Stephan Mølvig,male,unknown,unknown,unknown,unknown,Rowing
-1327302328,Stig Rønne,male,30 December 1887,15 September 1951,"Herstedvester, Denmark","Copenhagen, Denmark",Gymnastics
-1331385163,Susanne Munk Wilbek,female,12 October 1967,Alive,"Hvorslev, Denmark",Not Applicable,Handball
-1308891371,Susanne Nielsson,female,8 Juli 1960,Alive,"Aarhus, Denmark",Not Applicable,Swimming
-1279444699,Sven Thomsen,male,7 September 1884,14 November 1968,"Copenhagen, Denmark","Vittsjö, Hässleholm, Denmark",Sailing
-1306017713,Svend Madsen,male,17 March 1897,10 September 1990,"Vejle, Denmark","Gentofte, Denmark",Gymnastics
-1329562355,Svend Olsen,male,17 October 1908,13 December 1980,"Lodbjerg, Denmark","Hundested, Denmark",Weightlifting
-1260907016,Svend Ove Pedersen,male,unknown,unknown,unknown,unknown,Rowing
-1275806210,Svend Wad,male,unknown,unknown,unknown,unknown,Boxing
-1306017088,Søren Alfred Jensen,male,22 May 1891,16 May 1978,"Veerst, Denmark","Denver, Colorado, US",Gymnastics
-1272848143,Søren Hancke,male,13 December 1939,Alive,Århus,Not Applicable,Sailing
-1270728629,Søren Madsen,male,unknown,unknown,unknown,unknown,Rowing
-1276607009,Søren Marinus Jensen,male,5 May 1879,6 January 1965,"Skødstrup, Aarhus, Denmark",unknown,Wrestling
-1315095336,Søren Peter Christensen,male,30 October 1884,12 October 1927,"Langskov, Denmark","Faaborg, Denmark",Gymnastics
-1275806340,Søren Petersen,male,unknown,unknown,unknown,unknown,Boxing
-1306018350,Søren Sørensen,male,20 April 1897,11 March 1965,"Drigstrup, Denmark","Malling, Denmark",Gymnastics
-1306018377,Søren Thorborg,male,10 March 1889,31 July 1978,"Barrit, Denmark","Gilleleje, Denmark",Gymnastics
-1286643115,Tage Henriksen,male,8 April 1925,13 May 2016,Roskilde,unknown,Rowing
-1326877535,Thomas Arnoldsen,male,11 January 2002,Alive,"Aarhus, Denmark",Not Applicable,Handball
-1331114872,Thomas Ebert,male,unknown,unknown,unknown,unknown,Rowing
-1326513168,Thomas Jacobsen,male,unknown,unknown,unknown,unknown,Sailing
-1331114857,Thomas Poulsen,male,unknown,unknown,unknown,unknown,Rowing
-1302489819,Thomas Stuer-Lauridsen,male,29 April 1971,Alive,"Hørsholm Municipality, Denmark",Not Applicable,Badminton
-1304707447,Thor Kristensen,male,unknown,unknown,unknown,unknown,Rowing
-1275640569,Thorvald Eigenbrod,male,unknown,unknown,unknown,unknown,Field hockey
-1321405899,Thyge Petersen,male,28 May 1902,1 January 1964,"Horsens, Denmark","Odense, Denmark",Boxing
-1331383733,Tina Bøttzau,female,29 August 1971,Alive,"Kolding, Denmark",Not Applicable,Handball
-1328191282,Tommy Troelsen,male,10 July 1940,"
-9 March 2021","
-Nykøbing Mors, Denmark","
-Vejle, Denmark",Football
-1331384400,Tonje Kjærgaard,female,11 June 1975,Alive,"Silkeborg, Denmark",Not Applicable,Handball
-1304707456,Torben Grimmel,male,"November 23, 1975",Alive,"Odder, Denmark",Not Applicable,Shooting
-1327307042,Torkild Garp,male,31 January 1883,16 February 1976,"Copenhagen, Denmark","Gentofte, Denmark",Gymnastics
-1327306466,Tove Søby,female,unknown,unknown,unknown,unknown,Canoeing
-1275804431,Trine Hansen,female,19 February 1973,Alive,"Ringsted, Denmark",Not Applicable,Rowing
-1331384761,Trine Nielsen,female,16 October 1980,Alive,"Aalborg, Denmark",Not Applicable,Handball
-1253354157,Trine Qvist,female,unknown,unknown,unknown,unknown,Curling
-1332302269,Trine Østergaard,female,17 October 1991,Alive,"Skanderborg, Denmark",Not Applicable,Handball
-1327618620,Turpal Bisultanov,male,14 October 2001,Alive,"Chechnya, Russia",Not Applicable,Wrestling
-1328011953,Ulrik Wilbek,male,13 April 1958,Alive,"Tunis, Tunisia",Not Applicable,Handball
-1326512573,Valdemar Bandolowski,male,unknown,unknown,unknown,unknown,Sailing
-1306016392,Valdemar Bøggild,male,30 September 1883,2 July 1943,"Ringe, Denmark","Ringe, Denmark",Gymnastics
-1276174200,Verner Blaudzun,male,23 March 1946,Alive,"Sønderborg, Syddanmark, Denmark",Not Applicable,Cycling
-1331114798,Victor Feddersen,male,31 January 1968,Alive,"Gentofte, Denmark",Not Applicable,Rowing
-1281148086,Victor Jørgensen,male,unknown,unknown,unknown,unknown,Boxing
-1327307836,Viggo Dibbern,male,10 July 1900,30 January 1982,"Frederiksberg, Denmark","Herlev, Denmark",Gymnastics
-1286848714,Viggo Jensen,male,9 March 1921,"
-30 November 2005","
-Skagen, Denmark","
-Esbjerg, Denmark",Football
-1327305856,Viggo Jensen,male,unknown,unknown,unknown,unknown,Shooting
-1306017701,Vigo Madsen,male,13 November 1889,17 June 1979,"Vejle, Denmark","Helleruplund, Denmark",Gymnastics
-1332066095,Viktor Axelsen,male,4 January 1994,Alive,"Odense, Denmark",Not Applicable,Badminton
-1327307619,Viktor Rasmussen,male,10 January 1882,1 May 1956,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
-1306017440,Vilhelm Lange,male,20 December 1893,17 November 1950,"Ringkøbing, Denmark","Frederiksberg, Denmark",Gymnastics
-1279451263,Vilhelm Vett,male,31 December 1879,3 December 1962,"Copenhagen, Denmark","Palma de Mallorca, Spain",Sailing
-1305247140,Vilhelm Wolfhagen,male,11 November 1889,"
-5 July 1958","
-Copenhagen, Denmark","
-Frederikshavn, Denmark",Football
-1306016767,Wilhelm Grimmelmann,male,15 January 1893,8 December 1958,"Asendorf, Denmark","West Haven, Connecticut, US",Gymnastics
-1260907338,William Berntsen,male,25 March 1912,14 September 1994,"Jersie, Denmark","Frederikssund, Denmark",Sailing
-1269855382,Willy Gervin,male,28 November 1903,8 July 1951,"Copenhagen, Denmark","Roskilde, Denmark",Cycling
-1282316893,Willy Hansen,male,4 April 1906,18 March 1978,"Helsingør, Denmark","Braşov, Romania",Cycling
-1331114267,Wilson Kipketer,male,12 December 1972,Alive,"Kapchemoiywo, Nandi County, Kenya",Not Applicable,Athletics
+1324709580,Aage Andersen,Male,1 December 1883,1 April 1976,"Copenhagen, Denmark","Pinner, Greater London, England",Football
+1270670431,Aage Birch,Male,unknown,unknown,unknown,unknown,Sailing
+1327306956,Aage Frandsen,Male,18 October 1890,24 March 1968,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1279451295,Aage Høy-Petersen,Male,4 November 1898,29 December 1967,"Ordrup, Denmark","Gentofte, Denmark",Sailing
+1306016906,Aage Jørgensen,Male,22 January 1900,4 September 1972,"Framlev, Denmark","Skanderborg, Denmark",Gymnastics
+1291918790,Aage Larsen,Male,3 August 1923,31 October 2016,"Søborggård, Denmark",unknown,Rowing
+1306016635,Aage Marius Hansen,Male,27 September 1890,5 May 1980,"Dråby, Denmark","Sæby, Denmark",Gymnastics
+1306018403,Aage Walther,Male,21 April 1897,5 December 1961,"Kølstrup, Denmark","Kølstrup, Denmark",Gymnastics
+1313624694,Abraham Kurland,Male,10 June 1912,14 March 1999,"Odense, Syddanmark, Denmark",unknown,Wrestling
+1275805158,Aksel Bonde,Male,29 May 1918,27 May 1996,"Horne, Faaborg-Midtfyn Municipality",Horsens,Rowing
+1306018333,Aksel Sørensen,Male,5 October 1891,15 May 1955,"Vig, Denmark","Roskilde, Denmark",Gymnastics
+1293980975,Alex Rasmussen,Male,9 June 1984,Alive,"Svendborg, Southern Denmark, Denmark",Not Applicable,Cycling
+1306016895,Alfred Frøkjær Jørgensen,Male,21 December 1898,28 February 1988,"Framlev, Denmark","Aarhus, Denmark",Gymnastics
+1319691441,Alfred Ollerup Jørgensen,Male,30 August 1890,26 November 1973,"Tørring, Denmark","Svendborg, Denmark",Gymnastics
+1304706477,Allan Nørregaard,Male,19 March 1981,Alive,"Kolding, Denmark",Not Applicable,Sailing
+1331384917,Althea Reinhardt,Female,1 September 1996,Alive,"Aarhus, Denmark",Not Applicable,Handball
+1332303041,Amalie Dideriksen,Female,24 May 1996,Alive,"Kastrup, Denmark",Not Applicable,Cycling
+1265267576,Anders Andersen,Male,26 October 1881,19 February 1961,"Copenhagen, Denmark","Copenhagen, Denmark",Wrestling
+1302756642,Anders Golding,Male,12 May 1984,Alive,"Aalborg, Denmark",Not Applicable,Shooting
+1302757390,Anders Peter Nielsen,Male,25 May 1867,16 April 1950,"Aarhus, Denmark","Copenhagen, Denmark",Shooting
+1327304731,Anders Petersen,Male,unknown,unknown,unknown,unknown,Boxing
+1302757783,Anders Petersen,Male,13 July 1876,8 December 1968,"Vordingborg, Denmark","Glostrup, Denmark",Shooting
+1318170627,Andreas Helgstrand,Male,unknown,unknown,unknown,unknown,Equestrian
+1280318145,Andreas Rasmussen,Male,unknown,unknown,unknown,unknown,Field hockey
+1331384198,Anette Hoffmann,Female,5 May 1971,Alive,"Egvad, Denmark",Not Applicable,Handball
+1331383495,Anja Andersen,Female,15 February 1969,Alive,"Odense, Denmark",Not Applicable,Handball
+1331384086,Anja Byrial Hansen,Female,1 November 1973,Alive,"Horsens, Denmark",Not Applicable,Handball
+1331384717,Anja Nielsen,Female,12 April 1975,Alive,"Kolding, Denmark",Not Applicable,Handball
+1331385061,Anne Dorthe Tanderup,Female,24 April 1972,Alive,"Aarhus, Denmark",Not Applicable,Handball
+1327184511,Anne Dsane Andersen,Female,10 November 1992,Alive,"Randers, Denmark",Not Applicable,Rowing
+1270710049,Anne Grethe Jensen,Female,"November 7, 1951",Alive,"Vejlø, Denmark",Not Applicable,Equestrian
+1332302262,Anne Mette Hansen,Female,25 August 1994,Alive,"Glostrup, Denmark",Not Applicable,Handball
+1304706559,Anne van Olst,Female,unknown,unknown,unknown,unknown,Equestrian
+1317498417,Anne-Marie Rindom,Female,14 June 1991,Alive,"Søllerød, Denmark",Not Applicable,Sailing
+1310779868,Anthon Olsen,Male,14 September 1889,17 March 1972,"Copenhagen, Denmark","Gentofte, Denmark",Football
+1260902620,Arne Høyer,Male,9 November 1928,2 April 2010,"Struer, Denmark","Struer, Denmark",Canoeing
+1306016867,Arne Jørgensen,Male,15 July 1897,16 February 1989,"Framlev, Denmark","Sønder Årslev, Denmark",Gymnastics
+1271102169,Arne Nielsson,Male,unknown,unknown,unknown,unknown,Canoeing
+1327307119,Arvor Hansen,Male,5 November 1886,19 June 1962,"Copenhagen, Denmark","Frederiksberg, Denmark",Gymnastics
+1304706573,August Lindgren,Male,unknown,unknown,unknown,unknown,Football
+1306016504,Axel Andersen,Male,20 December 1891,15 May 1931,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1310779912,Axel Petersen,Male,unknown,unknown,unknown,unknown,Football
+1304706580,Axel Pilmark,Male,23 November 1925,13 July 2009,unknown,unknown,Football
+1273786724,Axel Schandorff,Male,3 March 1925,28 January 2016,"Copenhagen, Denmark","Copenhagen, Denmark",Cycling
+1310779944,Axel Thufason,Male,unknown,unknown,unknown,unknown,Football
+1260902709,Benny Nielsen,Male,unknown,unknown,unknown,unknown,Swimming
+1260902740,Bent Hansen,Male,unknown,unknown,unknown,unknown,Football
+1308912054,Bent Peder Rasch,Male,unknown,unknown,unknown,unknown,Canoeing
+1270710718,Bernhard Jensen,Male,unknown,unknown,unknown,unknown,Canoeing
+1270329230,Birgitte Hanel,Female,unknown,unknown,unknown,unknown,Rowing
+1325496738,Birte Christoffersen,Male,28 March 1924,Alive,"Copenhagen, Denmark",Not Applicable,Diving
+1328236947,Bjørn Hasløv,Male,18 May 1941,Alive,"Copenhagen, Denmark",Not Applicable,Rowing
+1304706590,Bjørn Rasmussen,Male,unknown,unknown,unknown,unknown,Football
+1237983202,Bodil Rasmussen,Female,unknown,unknown,unknown,unknown,Rowing
+1322514662,Brian Nielsen,Male,1 April 1965,Alive,"Korsør, Denmark",Not Applicable,Boxing
+1270834480,Børge Raahauge Nielsen,Male,unknown,unknown,unknown,unknown,Rowing
+1331383505,Camilla Andersen,Female,5 July 1973,Alive,"Gentofte, Denmark",Not Applicable,Handball
+1331115318,Camilla Martin,Female,23 March 1974,Alive,"Aarhus, Denmark",Not Applicable,Badminton
+1331385067,Camilla Thomsen,Female,19 November 1974,Alive,"Køge, Denmark",Not Applicable,Handball
+1306016491,Carl Andersen,Male,9 March 1879,12 September 1967,"Odense, Denmark","Nykøbing Falster, Denmark",Gymnastics
+1256706609,Carl Jensen,Male,13 September 1882,4 April 1942,"Dronninglund, Denmark","Frederiksberg, Denmark",Wrestling
+1306017222,Carl Krebs,Male,11 February 1889,15 May 1971,"Aarhus, Denmark","Slagelse, Denmark",Gymnastics
+1306017426,Carl Larsen,Male,3 June 1886,4 December 1962,"Fårevejle, Denmark","Frederiksværk, Denmark",Gymnastics
+1314832283,Carl Manicus-Hansen,Male,2 December 1877,23 September 1960,"Copenhagen, Denmark","Copenhagen, Danmark",Gymnastics
+1287262147,Carl Møller,Male,unknown,unknown,unknown,unknown,Rowing
+1306018017,Carl Pedersen,Male,25 July 1883,18 August 1971,"Rø, Denmark","Frederiksberg, Denmark",Gymnastics
+1287262157,Carl Pedersen,Male,unknown,unknown,unknown,unknown,Rowing
+1229459698,Carl-Ebbe Andersen,Male,19 January 1929,14 June 2009,"Roskilde, Denmark","Roskilde, Denmark",Rowing
+1327732345,Carsten Mogensen,Male,24 July 1983,Alive,"Roskilde, Denmark",Not Applicable,Badminton
+1323148097,Casper Jørgensen,Male,20 August 1985,Alive,unknown,Not Applicable,Cycling
+1328815057,Casper Ulrich Mortensen,Male,14 December 1989,Alive,"Copenhagen, Denmark",Not Applicable,Handball
+1304706600,Casper von Folsach,Male,30 March 1993,Alive,"Gentofte, Denmark",Not Applicable,Cycling
+1323968540,Cathrine Laudrup-Dufour,Female,2 January 1992,Alive,"Hvalsø, Denmark",Not Applicable,Equestrian
+1310779418,Charles Buchwald,Male,22 October 1880,19 November 1951,"Bjerringbro, Denmark","Hørsholm, Denmark",Football
+1306017157,Charles Jensen,Male,24 December 1885,5 June 1920,"Bislev, Denmark","Roskilde, Denmark",Gymnastics
+1317516284,Charles Winckler,Male,9 April 1867,17 December 1932,"Frederiksberg, Denmark","Frederiksberg, Denmark",Tug of war
+1323780369,Charlie Williams,Male,19 November 1873,29 July 1952,"Welling, Kent, England","Rio de Janeiro, Brazil",Football
+1309988223,Christian Frederiksen,Male,unknown,unknown,unknown,unknown,Canoeing
+1288970948,Christian Grønborg,Male,unknown,unknown,unknown,unknown,Sailing
+1306016725,Christian Hansen,Male,24 September 1891,13 June 1961,"Fredericia, Denmark","Copenhagen, Denmark",Gymnastics
+1287330157,Christian Hansen,Male,unknown,unknown,unknown,unknown,Rowing
+1306016837,Christian Juhl,Male,29 April 1898,27 September 1962,"Esbjerg, Denmark","Esbjerg, Denmark",Gymnastics
+1279451245,Christian Nielsen,Male,7 April 1873,7 November 1952,"Copenhagen, Denmark","Copenhagen, Denmark",Sailing
+1327184263,Christian Pedersen,Male,27 October 1889,22 March 1953,"Holstebro, Denmark","Copenhagen, Denmark",Gymnastics
+1306018353,Christian Svendsen,Male,13 July 1890,28 June 1959,"Svindlinge, Denmark","Copenhagen, Denmark",Gymnastics
+1306018357,Christian Thomas,Male,7 February 1896,4 October 1970,"Copenhagen, Denmark","Gentofte, Denmark",Gymnastics
+1298084086,Christian von Bülow,Male,14 December 1917,13 January 2002,"Copenhagen, Denmark",unknown,Sailing
+1280804088,Christina Otzen,Female,unknown,unknown,unknown,unknown,Sailing
+1331384940,Christina Roslyng,Female,10 July 1978,Alive,"Juelsminde, Denmark",Not Applicable,Handball
+1318415455,Christinna Pedersen,Female,12 May 1986,Alive,"Aalborg, Denmark",Not Applicable,Badminton
+1331384074,Conny Hamann,Female,16 September 1969,Alive,"Sønderborg, Denmark",Not Applicable,Handball
+1272848863,Cyril Andresen,Male,23 November 1929,12 September 1977,"Frederiksberg, Denmark","Gentofte, Denmark",Sailing
+1288970963,Dan Frost,Male,22 May 1961,Alive,"Frederiksberg, Denmark",Not Applicable,Cycling
+1299063822,Daniel Bachmann Andersen,Male,"Jun 1, 1990",Alive,"Sønderborg, Denmark",Not Applicable,Equestrian
+1304706621,Dion Ørnvold,Male,unknown,unknown,unknown,unknown,Football
+1328012083,Dorte Jensen,Female,20 October 1972,Alive,"Nyborg, Denmark",Not Applicable,Sailing
+1292548989,Dorthe Holm,Female,3 July 1972,Alive,"Copenhagen, Denmark",Not Applicable,Curling
+1319957427,Dynes Pedersen,Male,26 May 1893,28 December 1960,"Sunds, Denmark","Copenhagen, Denmark",Gymnastics
+1276456685,Ebbe Parsner,Male,6 June 1922,24 October 2013,"Copenhagen, Denmark",unknown,Rowing
+1270666760,Edgar Aabye,Male,14 September 1865,30 April 1941,"Helsingør, Denmark","Copenhagen, Denmark",Tug of war
+1316719261,Edi Hrnic,Male,26 December 2003,Alive,Denmark,Not Applicable,Taekwondo
+1276456664,Edmund Hansen,Male,9 September 1900,26 May 1995,"Odense, Denmark","Copenhagen, Denmark",Cycling
+1315046201,Eigil Nielsen,Male,15 September 1918,7 September 2000,"Esbjerg, Denmark","Frederiksberg, Copenhagen, Denmark",Football
+1324892159,Einar Middelboe,Male,25 September 1883,31 December 1968,"Arild, Sweden","Frederiksberg, Denmark",Football
+1306017794,Einar Olsen,Male,11 March 1893,3 June 1949,"Vig, Denmark","Grevinge, Denmark",Gymnastics
+1327304991,Ejgil Clemmensen,Male,unknown,unknown,unknown,unknown,Rowing
+1287997500,Ejler Allert,Male,unknown,unknown,unknown,unknown,Rowing
+1327306534,Ejvind Blach,Male,unknown,unknown,unknown,unknown,Field hockey
+1271102294,Ejvind Hansen,Male,unknown,unknown,unknown,unknown,Canoeing
+1304706651,Ellen Osiier,Female,13 August 1890,6 September 1962,"Hjørring, Nordjylland, Denmark","København, Denmark",Fencing
+1304706656,Else Jacobsen,Female,"May 31, 1911","April 3, 1965",unknown,unknown,Swimming
+1330685942,Emil Jakobsen,Male,24 January 1998,Alive,"Kerteminde, Denmark",Not Applicable,Handball
+1322435048,Emil Jørgensen,Male,7 February 1882,23 March 1947,"Gentofte, Denmark","Gentofte, Denmark",Football
+1326877371,Emil Nielsen,Male,10 March 1997,Alive,"Aarhus, Denmark",Not Applicable,Handball
+1332302317,Emma Friis,Female,31 October 1999,Alive,"Herning, Denmark",Not Applicable,Handball
+1316736642,Emma Jørgensen,Female,30 January 1996,Alive,"Bagsværd, Denmark",Not Applicable,Canoeing
+1287997845,Erik Bisgaard,Male,unknown,unknown,unknown,unknown,Rowing
+1270856398,Erik Christiansen,Male,unknown,unknown,unknown,unknown,Rowing
+1260903346,Erik Hansen,Male,15 November 1939,30 September 2014,"Randers, Denmark",unknown,Canoeing
+1280806132,Erik Hansen,Male,unknown,unknown,unknown,unknown,Sailing
+1327308057,Erik Husted,Male,unknown,unknown,unknown,unknown,Field hockey
+1306017261,Erik Klem,Male,25 July 1886,28 April 1965,"Tikøb, Denmark","Copenhagen, Denmark",Gymnastics
+1325475848,Erik Kuld Jensen,Male,10 June 1925,14 April 2004,"Aarhus, Denmark",unknown,Football
+1270326351,Erik Larsen,Male,20 February 1928,10 April 1952,Herfølge,Ringsted,Rowing
+1328237945,Erik Petersen,Male,23 September 1939,21 February 2025,"Copenhagen, Denmark",unknown,Rowing
+1302758000,Erik Sætter-Lassen,Male,15 July 1892,24 December 1966,"Gilleleje, Denmark","Helleruplund, Denmark",Shooting
+1329548005,Erling Jessen,Male,31 August 1938,Alive,"Kolding, Denmark",Not Applicable,Canoeing
+1331548000,Erling Sørensen,Male,29 October 1920,10 October 2002,"Copenhagen, Denmark",unknown,Football
+1319699488,Ernst Schultz,Male,15 May 1879,20 June 1906,"Horsens, Denmark","Roskilde Fjord, Denmark",Athletics
+1331115155,Eskild Ebbesen,Male,27 May 1972,Alive,"Silkeborg, Midtjylland",Not Applicable,Rowing
+1327306170,Eugen Schmidt,Male,17 February 1862,7 October 1931,"Copenhagen, Denmark","Aalborg, Denmark",Tug of war
+1304082022,Eva Arndt,Female,27 November 1919,18 June 1993,Aarhus,Gjesing,Swimming
+1304706687,Fie Udby Erichsen,Female,23 April 1985,Alive,"Hobro, Mariagerfjord, Denmark",Not Applicable,Rowing
+1327184047,Finn Haunstoft,Male,unknown,unknown,unknown,unknown,Canoeing
+1292756299,Finn Pedersen,Male,30 July 1925,14 January 2012,"Roskilde, Denmark","Roskilde, Denmark",Rowing
+1328011647,Finn Tugwell,Male,18 March 1976,Alive,"Aarhus, Denmark",Not Applicable,Table tennis
+1260903584,Flemming Nielsen,Male,24 February 1934,16 November 2018,"Copenhagen, Denmark",unknown,Football
+1327307912,Frands Faber,Male,unknown,unknown,unknown,unknown,Field hockey
+1306016712,Frede Hansen,Male,5 April 1897,31 July 1979,"Borbjerg, Denmark","Tønder, Denmark",Gymnastics
+1304706697,Frederic Vystavel,Male,29 August 1993,Alive,unknown,Not Applicable,Rowing
+1306016698,Frederik Hansen,Male,2 July 1896,2 September 1962,"Malt, Denmark","Malt, Denmark",Gymnastics
+1331114520,Frederik Rodenberg,Male,22 January 1998,Alive,"Værløse, Denmark",Not Applicable,Cycling
+1256597897,Fritze Carstensen,Female,18 July 1925,5 August 2005,"Aarhus, Denmark","Lyngby-Taarbæk, Denmark",Swimming
+1317235085,Frode Kirkebjerg,Male,unknown,unknown,unknown,unknown,Equestrian
+1269845969,Frode Sørensen,Male,8 February 1912,1 August 1980,"Copenhagen, Denmark","Stockholm, Sweden",Cycling
+1327307780,Georg Albertsen,Male,12 July 1889,28 April 1961,"Fredriksberg, Denmark","Gentofte, Denmark",Gymnastics
+1306018396,Georg Vest,Male,18 July 1896,6 December 1977,"Brarup, Denmark","Nykøbing Falster, Denmark",Gymnastics
+1306016288,George Falcke,Male,2 March 1891,1 February 1979,"Boston, Massachusetts, US","Copenhagen, Denmark",Gymnastics
+1277401728,Gergely Salim,Male,"April 1, 1972",Alive,"Dar-es-Salaam, Tanzania",Not Applicable,Taekwondo
+1270999189,Gerhard Pedersen,Male,unknown,unknown,unknown,unknown,Boxing
+1328879354,Gert Frank,Male,15 March 1956,19 January 2019,"Hobro, Nordjylland, Denmark",unknown,Cycling
+1331384558,Gitte Madsen,Female,24 March 1969,Alive,"Herning, Denmark",Not Applicable,Handball
+1331385051,Gitte Sunesen,Female,11 December 1971,Alive,"Hammel, Denmark",Not Applicable,Handball
+1156815669,Gold Four,Male,unknown,unknown,unknown,unknown,Rowing
+1303553571,Gotfred Johansen,Male,unknown,unknown,unknown,unknown,Boxing
+1332018232,Greta Andersen,Female,1 May 1927,6 February 2023,"Copenhagen, Denmark","Solvang, California, U.S.",Swimming
+1238157004,Grete Heckscher,Female,8 November 1901,6 October 1987,"Copenhagen, Denmark","Syddanmark, Denmark",Fencing
+1323146494,Gunnar Asmussen,Male,10 May 1944,Alive,"Aarhus, Denmark",Not Applicable,Cycling
+1327184399,Halvor Birch,Male,21 February 1885,5 July 1962,"Horsens, Denmark","Copenhagen, Denmark",Gymnastics
+1260928372,Hanne Eriksen,Female,unknown,unknown,unknown,unknown,Rowing
+1270656832,Hans Bjerrum,Male,unknown,unknown,unknown,unknown,Field hockey
+1304706724,Hans Christian Nielsen,Male,10 May 1928,5 March 1990,"Odder, Denmark","Aarhus, Denmark",Football
+1306018336,Hans Christian Sørensen,Male,11 October 1900,23 January 1984,"Drigstrup, Denmark","Drigstrup, Denmark",Gymnastics
+1260903779,Hans Colberg,Male,14 December 1921,25 September 2007,"Klemensker, Bornholm, Denmark",unknown,Football
+1306018062,Hans Eiler Pedersen,Male,18 October 1890,1 December 1971,"Skårup, Denmark","Gentofte, Denmark",Gymnastics
+1328068800,Hans Fogh,Male,8 March 1938,14 March 2014,"Rødovre, Denmark","Toronto, Ontario, Canada",Sailing
+1270656516,Hans Herlak,Male,unknown,unknown,unknown,unknown,Field hockey
+1272312667,Hans Jacob Nielsen,Male,unknown,unknown,unknown,unknown,Boxing
+1306017183,Hans Jakobsen,Male,20 February 1895,17 October 1980,"Havrebjerg, Denmark","Odense, Denmark",Gymnastics
+1275663140,Hans Jørgen Hansen,Male,unknown,unknown,unknown,unknown,Field hockey
+1277826809,Hans Kjeld Rasmussen,Male,10 November 1954,February 2025,"Glostrup, Hovedstaden, Denmark",unknown,Shooting
+1306018340,Hans Laurids Sørensen,Male,13 August 1901,14 November 1974,"Kirke Hvalsø, Denmark","Besser, Denmark",Gymnastics
+1288232018,Hans Lindberg,Male,1 August 1981,Alive,"Høje-Taastrup, Denmark",Not Applicable,Handball
+1330597587,Hans Lunding,Male,25 February 1899,5 April 1984,"Stepping, German Empire","Århus, Denmark",Equestrian
+1279444696,Hans Meulengracht-Madsen,Male,9 September 1885,7 October 1966,"Vejle, Denmark","Gentofte, Denmark",Sailing
+1306018052,Hans Pedersen,Male,5 November 1887,22 September 1943,"Højelse, Denmark","Kimmerslev, Denmark",Gymnastics
+1306016678,Hans Trier Hansen,Male,15 May 1893,12 September 1980,"Vallekilde, Denmark","Hørve, Denmark",Gymnastics
+1271677032,Hans-Henrik Ørsted,Male,13 December 1954,Alive,"Grenå, Denmark",Not Applicable,Cycling
+1296519412,Harald Bohr,Male,22 April 1887,22 January 1951,"Copenhagen, Denmark","Gentofte, Denmark",Football
+1306016373,Harald Bukdahl,Male,28 January 1884,12 December 1951,"Ødis, Denmark","Kastrup, Denmark",Gymnastics
+1276440954,Harald Christensen,Male,9 April 1907,27 November 1994,"Kolding, Denmark","Copenhagen, Denmark",Cycling
+1310779471,Harald Hansen,Male,14 March 1884,10 May 1927,"Copenhagen, Denmark","Aarhus, Denmark",Football
+1306017245,Harald Klem,Male,21 June 1884,24 July 1954,"Tikøb, Denmark","Copenhagen, Denmark",Gymnastics
+1321362115,Harald Nielsen,Male,26 October 1941,11 August 2015,"Frederikshavn, Denmark","Klampenborg, Denmark",Football
+1306016601,Harry Holm,Male,14 September 1902,25 December 1987,"Kristrup, Denmark","Esbjerg, Denmark",Gymnastics
+1270717774,Harry Jørgensen,Male,unknown,unknown,unknown,unknown,Rowing
+1270326347,Harry Knudsen,Male,unknown,unknown,unknown,unknown,Rowing
+1260903871,Harry Larsen,Male,4 September 1915,12 August 1974,"Kirkerup, Slagelse Municipality",Copenhagen,Rowing
+1318144402,Harry Sørensen,Male,19 April 1892,14 September 1963,"Flensburg, German Empire","Aarhus, Denmark",Gymnastics
+1304706731,Hedvig Rasmussen,Female,22 December 1993,Alive,"Frederiksberg, Denmark",Not Applicable,Rowing
+1331383562,Heidi Astrup,Female,31 May 1972,Alive,"Viborg, Denmark",Not Applicable,Handball
+1292548922,Helena Blach Lavrsen,Female,7 June 1963,Alive,"Frederiksberg, Denmark",Not Applicable,Curling
+1332302323,Helena Elver,Female,1 March 1998,Alive,"Copenhagen, Denmark",Not Applicable,Handball
+1327182699,Helge Halkjær,Male,unknown,unknown,unknown,unknown,Rowing
+1260903983,Helge Muxoll Schrøder,Male,27 November 1924,2 March 2012,"Horsens, Denmark","Jonstorp, Sweden",Rowing
+1305699899,Helle Jespersen,Female,unknown,unknown,unknown,unknown,Sailing
+1323128308,Helmuth Nyborg,Male,5 January 1937,Alive,unknown,Not Applicable,Canoeing
+1289293395,Henning Enoksen,Male,26 September 1935,25 September 2016,"Sejerslev, Morsø, Denmark","Grenaa, Denmark",Football
+1282671977,Henning Holst,Male,unknown,unknown,unknown,unknown,Field hockey
+1271093330,Henning Lynge Jakobsen,Male,unknown,unknown,unknown,unknown,Canoeing
+1330052089,Henning Wind,Male,19 January 1937,20 July 2025,"Copenhagen, Denmark",unknown,Sailing
+1331384624,Henriette Mikkelsen,Female,21 September 1980,Alive,"Nykøbing Mors, Denmark",Not Applicable,Handball
+1326513165,Henrik Blakskjær,Male,unknown,unknown,unknown,unknown,Sailing
+1304706746,Henrik Hansen,Male,26 May 1920,23 August 2010,"Melby, Denmark","North Stonington, Connecticut, U.S.",Wrestling
+1332183938,Henrik Møllgaard,Male,2 January 1985,Alive,"Bramming, Denmark",Not Applicable,Handball
+1326877917,Henrik Toft Hansen,Male,18 December 1986,Alive,"Skive, Denmark",Not Applicable,Handball
+1260904131,Henry From,Male,1 June 1926,31 August 1990,"Aarhus, Denmark","Aarhus, Denmark",Football
+1309285346,Henry Hansen,Male,16 March 1902,28 March 1985,"Copenhagen, Denmark","Gentofte, Denmark",Cycling
+1270326350,Henry Larsen,Male,unknown,unknown,unknown,unknown,Rowing
+1329363748,Henry Petersen,Male,1 October 1900,24 September 1949,"Ring, Horsens, Denmark","Copenhagen, Denmark",Athletics
+1324807774,Henry Rambusch,Male,16 October 1881,20 May 1954,"Aarhus, Denmark","Copenhagen, Denmark",Football
+1306017172,Herold Jansson,Male,13 November 1899,23 April 1965,"Copenhagen, Denmark","Frederiksberg, Denmark",Gymnastics
+1310779313,Hjalmar Christoffersen,Male,1 December 1889,28 December 1966,"Copenhagen, Denmark","Copenhagen, Denmark",Football
+1289202125,Hjalmar Heerup,Male,14 April 1886,18 November 1961,"Frederiksværk, Denmark","Odense, Denmark",Football
+1306016928,Hjalmar Peter Johansen,Male,1 November 1892,9 December 1979,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1306016480,Hjalmart Andersen,Male,11 October 1889,23 January 1974,"Stubbekøbing, Denmark","Risskov, Denmark",Gymnastics
+1317516270,Holger Nielsen,Male,unknown,unknown,unknown,unknown,Shooting
+1304706748,Holger Seebach,Male,17 March 1922,30 August 2011,"Aarhus, Denmark","Odense, Denmark",Football
+1306016614,Hugo Helsten,Male,15 September 1894,25 May 1978,"Frederikshavn, Denmark","Esbjerg, Denmark",Gymnastics
+1275663925,Ib Larsen,Male,1 April 1945,Alive,Kongens Lyngby,Not Applicable,Rowing
+1270825912,Ib Olsen,Male,unknown,unknown,unknown,unknown,Rowing
+1281812372,Ib Storm Larsen,Male,unknown,unknown,unknown,unknown,Rowing
+1276850101,Inge Sørensen,Female,18 July 1924,9 March 2011,"Skovshoved, Denmark","New Jersey, US",Swimming
+1306016307,Ingvald Eriksen,Male,3 September 1884,28 January 1961,"Odense, Denmark","Odense, Denmark",Gymnastics
+1260904224,Ivan Jensen,Male,unknown,unknown,unknown,unknown,Football
+1271345867,Ivan Joseph Martin Osiier,Male,"December 16, 1888","December 23, 1965","Copenhagen, Denmark","Copenhagen, Denmark",Fencing
+1310779629,Ivar Lykke,Male,unknown,unknown,unknown,unknown,Football
+1309791208,Jacob Barsøe,Male,21 September 1988,Alive,"Vejle, Denmark",Not Applicable,Rowing
+1319219825,Jacob Holm,Male,5 September 1995,Alive,"Esbjerg, Denmark",Not Applicable,Handball
+1304706755,Jacob Larsen,Male,unknown,unknown,unknown,unknown,Rowing
+1319937223,Jakob Fuglsang,Male,22 March 1985,Alive,"Geneva, Switzerland",Not Applicable,Cycling
+1288964650,Jan Mathiasen,Male,unknown,unknown,unknown,unknown,Sailing
+1270325731,Jan Petersen,Male,28 July 1970,Alive,"Næstved, Denmark",Not Applicable,Cycling
+1254507837,Jane Bidstrup,Female,unknown,unknown,unknown,unknown,Curling
+1331384430,Janne Kolling,Female,12 July 1968,Alive,"Aarhus, Denmark",Not Applicable,Handball
+1326877396,Jannick Green,Male,29 September 1988,Alive,"Lemvig, Denmark",Not Applicable,Handball
+1331115134,Jeanette Ottesen,Female,30 December 1987,Alive,"Kongens Lyngby, Denmark",Not Applicable,Swimming
+1328751630,Jena Hansen,Female,10 December 1988,Alive,unknown,Not Applicable,Sailing
+1327305036,Jens Bojsen-Møller,Male,unknown,unknown,unknown,unknown,Sailing
+1320063144,Jens Eriksen,Male,30 December 1969,Alive,"Glostrup, Hovedstaden, Denmark",Not Applicable,Badminton
+1302756686,Jens Hajslund,Male,29 May 1877,28 August 1964,"Hjelm, Midtjylland, Denmark","Struer, Midtjylland, Denmark",Shooting
+1318371463,Jens Kirkegaard,Male,1 June 1889,20 April 1966,"Lindum, Denmark","Randers, Denmark",Gymnastics
+1306017110,Jens Kristian Jensen,Male,22 March 1885,27 March 1956,"Pedersborg, Denmark","Vordingborg, Denmark",Gymnastics
+1306017460,Jens Lambæk,Male,16 October 1899,21 October 1985,"Gjellerup, Denmark","Herning, Denmark",Gymnastics
+1306017380,Jens Laursen,Male,1 January 1888,23 May 1967,"Tulstrup, Denmark","Frederiksberg, Denmark",Gymnastics
+1256107806,Jens-Erik Madsen,Male,30 March 1981,Alive,unknown,Not Applicable,Cycling
+1331114096,Jesper Bank,Male,unknown,unknown,unknown,unknown,Sailing
+1304706810,Jesper Hansen,Male,unknown,unknown,unknown,unknown,Shooting
+1310384162,Jesper Nøddesbo,Male,23 October 1980,Alive,"Herning, Denmark",Not Applicable,Handball
+1331114112,Jesper Seier,Male,unknown,unknown,unknown,unknown,Sailing
+1227446944,Jette Sørensen,Female,unknown,unknown,unknown,unknown,Rowing
+1309286843,Jimmi Madsen,Male,4 January 1969,Alive,"Copenhagen, Denmark",Not Applicable,Cycling
+1319708365,Joachim B. Olsen,Male,31 May 1977,Alive,"Aalborg, Denmark",Not Applicable,Athletics
+1278029334,Joachim Fischer Nielsen,Male,23 November 1978,Alive,"Gentofte, Denmark",Not Applicable,Badminton
+1304706817,Joachim Sutton,Male,15 May 1995,Alive,Denmark,Not Applicable,Rowing
+1327298552,Johan Andersen,Male,unknown,unknown,unknown,unknown,Canoeing
+1306016410,Johannes Birk,Male,5 September 1893,18 February 1961,"Gjellerup, Denmark","Herning, Denmark",Gymnastics
+1275803801,Johannes Eriksen,Male,12 July 1889,25 June 1963,"Frederiksberg, Denmark","Frederiksberg, Denmark",Wrestling
+1317493718,Johannes Gandil,Male,unknown,unknown,unknown,unknown,Football
+1306016664,Johannes Hansen,Male,6 December 1882,20 October 1959,"Malt, Denmark","Gentofte, Denmark",Gymnastics
+1306018069,Johannes Pedersen,Male,26 April 1892,17 January 1982,"Kimmerslev, Denmark","Roskilde, Denmark",Gymnastics
+1260904553,Johannes Pløger,Male,3 April 1922,4 February 1991,"Frederiksberg, Denmark","Frederiksberg, Denmark",Football
+1306018399,Johannes Vinther,Male,5 January 1893,24 May 1968,"Nørre Broby, Denmark","Oure, Denmark",Gymnastics
+1324898367,John Danielsen,Male,13 July 1939,Alive,"Odense, Denmark",Not Applicable,Football
+1322514922,John Hansen,Male,24 June 1924,12 January 1990,"Copenhagen, Denmark","Copenhagen, Denmark",Football
+1328245650,John Hansen,Male,8 October 1938,Alive,"Copenhagen, Denmark",Not Applicable,Rowing
+1321741941,John Sørensen,Male,5 October 1934,26 October 2024,"Copenhagen, Denmark",unknown,Canoeing
+1318739415,Jonas Høgh-Christensen,Male,21 May 1981,Alive,"Copenhagen, Denmark",Not Applicable,Sailing
+1304706832,Jonas Warrer,Male,22 March 1979,Alive,"Aarhus, Denmark",Not Applicable,Sailing
+1331385098,Josephine Touray,Female,10 June 1979,Alive,"Aarhus, Denmark",Not Applicable,Handball
+1294556775,Julie Norman Leth,Female,13 July 1992,Alive,"Aarhus, Denmark",Not Applicable,Cycling
+1326877483,Jóhan Hansen,Male,1 May 1994,Alive,"Tórshavn, Faroe Islands",Not Applicable,Handball
+1280807665,Jørgen Bojsen-Møller,Male,unknown,unknown,unknown,unknown,Sailing
+1270679179,Jørgen Frantzen,Male,unknown,unknown,unknown,unknown,Rowing
+1269848000,Jørgen Hansen,Male,7 December 1942,Alive,"Copenhagen, Denmark",Not Applicable,Cycling
+1260904853,Jørgen Leschly Sørensen,Male,24 September 1922,21 February 1999,"Lumby, Denmark","Odense, Denmark",Football
+1306018168,Jørgen Ravn,Male,9 January 1884,1 December 1962,"Horbelev, Denmark","Silkeborg, Denmark",Gymnastics
+1304706842,Jørgen W. Hansen,Male,15 September 1925,17 July 1969,"Frederiksberg, Denmark","Holbæk, Denmark",Football
+1270725954,Jørn Krab,Male,unknown,unknown,unknown,unknown,Rowing
+1323148824,Jørn Lund,Male,26 August 1944,Alive,"Astrup, Mariagerfjord, Denmark",Not Applicable,Cycling
+1321310008,Jørn Sørensen,Male,17 October 1936,Alive,"Nibe, Denmark",Not Applicable,Football
+1327307092,Kaj Gnudtzmann,Male,1 May 1880,22 September 1948,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1327741993,Kamilla Rytter Juhl,Female,23 November 1983,Alive,"Skagen, Denmark",Not Applicable,Badminton
+1331383767,Karen Brødsgaard,Female,10 March 1978,Alive,"Horsens, Denmark",Not Applicable,Handball
+1276415639,Karen Harup,Female,20 November 1924,9 July 2009,"Skovshoved, Denmark","Copenhagen, Denmark",Swimming
+1228411721,Karen Hoff,Female,29 May 1921,29 February 2000,"Vorup, Denmark",unknown,Canoeing
+1273545551,Karen Lachmann,Female,30 May 1916,30 September 1962,"Peking, China","Gentofte, Denmark",Fencing
+1331384690,Karin Mortensen,Female,26 September 1977,Alive,"Horsens, Denmark",Not Applicable,Handball
+1322514946,Karl Aage Hansen,Male,4 July 1921,23 November 1990,"Mesinge, Denmark",unknown,Football
+1274802054,Karl Aage Præst,Male,26 February 1922,19 November 2011,"Copenhagen, Denmark","Frederiksberg, Denmark",Football
+1306017332,Karl Kirk,Male,5 April 1890,6 March 1955,"Sønder Nærå, Denmark","Aarhus, Denmark",Gymnastics
+1323147636,Kasper Søndergaard,Male,9 June 1981,Alive,"Skive, Denmark",Not Applicable,Handball
+1304706854,Kasper Winther Jørgensen,Male,unknown,unknown,unknown,unknown,Rowing
+1331384176,Kathrine Heindahl,Female,26 March 1992,Alive,"Rudersdal, Denmark",Not Applicable,Handball
+1328883858,Katja Salskov-Iversen,Female,19 August 1994,Alive,unknown,Not Applicable,Sailing
+1331383988,Katrine Fruelund,Female,12 July 1978,Alive,"Randers, Denmark",Not Applicable,Handball
+1273316241,Ken Frost,Male,15 February 1967,Alive,"Rødovre, Denmark",Not Applicable,Cycling
+1331431026,Kevin Møller,Male,20 June 1989,Alive,"Løgumkloster, Tønder, Denmark",Not Applicable,Handball
+1327306225,Kim Wraae Knudsen,Male,unknown,unknown,unknown,unknown,Canoeing
+1317632620,Kjell Rodian,Male,30 June 1942,29 December 2007,"Frederiksberg, Denmark","Copenhagen, Denmark",Cycling
+1272848864,Klaus Baess,Male,10 November 1924,16 September 2018,"Frederiksberg, Denmark",unknown,Sailing
+1319923921,Klaus Kynde Nielsen,Male,13 April 1966,Alive,"Aarhus, Denmark",Not Applicable,Cycling
+1304706896,Knud Bastrup-Birk,Male,12 December 1919,25 August 1973,"Copenhagen, Denmark","Gentofte, Denmark",Football
+1304706907,Knud Børge Overgaard,Male,21 March 1918,20 October 1985,unknown,unknown,Football
+1279451234,Knud Degn,Male,11 May 1880,16 May 1965,"Esbønderup, Gribskov, Denmark","Copenhagen, Denmark",Sailing
+1327307195,Knud Holm,Male,2 January 1887,28 May 1972,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1306017312,Knud Kirkeløkke,Male,10 November 1892,7 February 1976,"Hellerup, Denmark",unknown,Gymnastics
+1325460099,Knud Lundberg,Male,14 May 1920,12 August 2002,"Copenhagen, Denmark",Gentofte,Football
+1327307674,Knud Vermehren,Male,19 December 1890,1 January 1985,"Copenhagen, Denmark","Gentofte, Denmark",Gymnastics
+1306018384,Kristen Vadgaard,Male,2 June 1886,16 February 1979,"Stenild, Denmark","Gjern, Denmark",Gymnastics
+1306016652,Kristian Hansen,Male,28 January 1895,13 June 1955,"Everdrup, Denmark","Hammer, Næstved, Denmark",Gymnastics
+1306017412,Kristian Larsen,Male,2 February 1895,19 June 1972,"Bjergsted, Denmark","Ubby, Denmark",Gymnastics
+1306017745,Kristian Madsen,Male,12 February 1893,10 March 1988,"Bøvling, Denmark","Holstebro, Denmark",Gymnastics
+1329369052,Kristian Middelboe,Male,unknown,unknown,unknown,unknown,Football
+1327307559,Kristian Pedersen,Male,14 March 1878,8 March 1917,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1332302310,Kristina Jørgensen,Female,17 January 1998,Alive,"Horsens, Denmark",Not Applicable,Handball
+1331383520,Kristine Andersen,Female,2 April 1976,Alive,"Aalborg, Denmark",Not Applicable,Handball
+1270835263,Kristine Roug,Male,unknown,unknown,unknown,unknown,Sailing
+1328362199,Kurt Helmudt,Male,7 December 1943,7 September 2018,"Copenhagen, Denmark",unknown,Rowing
+1302757273,Lars Jørgen Madsen,Male,19 July 1871,1 April 1925,"Beldringe, Denmark","Harridslev, Randers, Denmark",Shooting
+1327304861,Lars Nielsen,Male,unknown,unknown,unknown,unknown,Rowing
+1326877496,Lasse Andersson,Male,11 March 1994,Alive,"Copenhagen, Denmark",Not Applicable,Handball
+1331114592,Lasse Norman Leth,Male,11 February 1992,Alive,"Faaborg, Denmark",Not Applicable,Cycling
+1326877798,Lasse Svan Hansen,Male,31 August 1983,Alive,"Stevns, Denmark",Not Applicable,Handball
+1286866227,Laurits Larsen,Male,8 April 1872,28 June 1949,unknown,unknown,Shooting
+1323148281,Leif Mortensen,Male,5 May 1946,Alive,"Copenhagen, Denmark",Not Applicable,Cycling
+1331384898,Lene Rantala,Female,10 August 1968,Alive,"Gladsaxe, Denmark",Not Applicable,Handball
+1276413077,Leo Nielsen,Male,5 March 1909,15 June 1968,"Randers, Denmark","Copenhagen, Denmark",Cycling
+1319696339,Lily Carlstedt,Female,unknown,unknown,unknown,unknown,Athletics
+1331383833,Line Daugaard,Female,17 July 1978,Alive,"Herning, Denmark",Not Applicable,Handball
+1332302283,Line Haugsted,Female,11 November 1994,Alive,"Skive, Denmark",Not Applicable,Handball
+1287391137,Lis Hartel,Female,"March 14, 1921","February 12, 2009",unknown,unknown,Equestrian
+1331115103,Lotte Friis,Female,9 February 1988,Alive,"Blovstrød, Denmark",Not Applicable,Swimming
+1331384383,Lotte Kiærskou,Female,23 June 1975,Alive,"Frederikshavn, Denmark",Not Applicable,Handball
+1270329159,Lotte Koefoed,Female,unknown,unknown,unknown,unknown,Rowing
+1327307267,Louis Larsen,Male,10 January 1874,26 May 1950,"Copenhagen, Denmark","Hellerup, Denmark",Gymnastics
+1331383576,Louise Bager Due,Female,23 April 1982,Alive,"Dronninglund, Denmark",Not Applicable,Handball
+1331383780,Louise Burgaard,Male,17 October 1992,Alive,"Esbjerg, Denmark",Not Applicable,Handball
+1304706938,Ludvig Dam,Male,"March 24, 1884","March 29, 1972","Sjælland, Denmark","Odense, Denmark",Swimming
+1324902050,Ludvig Drescher,Male,21 July 1881,14 July 1917,"Sønderborg, Denmark","Copenhagen, Denmark",Football
+1326877464,Lukas Jørgensen,Male,31 March 1999,Alive,"Lejre, Denmark",Not Applicable,Handball
+1306017557,Lukas Nielsen,Male,23 December 1884,29 April 1964,"Malmö, Sweden","Copenhagen, Denmark",Gymnastics
+1250991619,Mads Andersen,Male,unknown,unknown,unknown,unknown,Rowing
+1316781076,Mads Christiansen,Male,3 May 1986,Alive,"Næstved, Denmark",Not Applicable,Handball
+1326877446,Mads Mensah Larsen,Male,12 August 1991,Alive,"Holbæk, Denmark",Not Applicable,Handball
+1331115066,Mads Rasmussen,Male,unknown,unknown,unknown,unknown,Rowing
+1326877330,Magnus Landin Jacobsen,Male,20 August 1995,Alive,"Søborg, Denmark",Not Applicable,Handball
+1326877383,Magnus Saugstrup,Male,12 July 1996,Alive,"Aalborg, Denmark",Not Applicable,Handball
+1331384028,Maja Grønbæk,Female,30 January 1971,Alive,"Amager, Denmark",Not Applicable,Handball
+1332288433,Margit Pörtner,Female,"February 16, 1972","April 26, 2017","Hørsholm, Denmark",Denmark,Curling
+1331383957,Marianne Florman,Female,1 June 1964,Alive,"Frederiksberg, Copenhagen, Denmark",Not Applicable,Handball
+1332192667,Marius Lefevre,Male,4 May 1875,14 March 1958,"Odense, Denmark","Gentofte, Denmark",Gymnastics
+1306018323,Marius Skram-Jensen,Male,1 March 1881,17 January 1975,"Slagelse, Denmark","Harriman, Tennessee, US",Gymnastics
+1306018381,Marius Thuesen,Male,23 January 1878,12 July 1941,"Holbæk, Denmark","Copenhagen, Denmark",Gymnastics
+1323238108,Mark Madsen,Male,23 September 1984,Alive,"Nykøbing Falster, Denmark",Not Applicable,Wrestling
+1304706952,Martin Kirketerp,Male,unknown,unknown,unknown,unknown,Sailing
+1329374012,Mathias Boe,Male,11 July 1980,Alive,"Frederikssund, Denmark",Not Applicable,Badminton
+1332177799,Mathias Gidsel,Male,8 February 1999,Alive,"Skjern, Denmark",Not Applicable,Handball
+1320223276,Mette Schjoldager,Female,21 April 1977,Alive,"Viby,  Roskilde Municipality, Denmark",Not Applicable,Badminton
+1331385101,Mette Tranborg,Female,1 January 1996,Alive,"Aarhus, Denmark",Not Applicable,Handball
+1331385128,Mette Vestergaard,Female,27 November 1975,Alive,"Taastrup, Denmark",Not Applicable,Handball
+1326877670,Michael Damgaard,Male,18 March 1990,Alive,"Rødby, Denmark",Not Applicable,Handball
+1304706966,Michael Færk Christensen,Male,14 February 1986,Alive,"Hobro, Denmark",Not Applicable,Cycling
+1272848920,Michael Jessen,Male,unknown,unknown,unknown,unknown,Rowing
+1259430679,Michael Maze,Male,1 September 1981,Alive,"Faxe, Denmark",Not Applicable,Table tennis
+1316077874,Michael Michaelsen,Male,unknown,unknown,unknown,unknown,Boxing
+1331010807,Michael Mørkøv,Male,30 April 1985,Alive,"Kokkedal, Denmark",Not Applicable,Cycling
+1276402765,Michael Sandstød,Male,23 June 1968,Alive,"Copenhagen, Denmark",Not Applicable,Cycling
+1332302250,Michala Møller,Female,16 February 2000,Alive,"Aalborg, Denmark",Not Applicable,Handball
+1331384217,Mie Højlund,Female,24 October 1997,Alive,"Voldum, Favrskov, Denmark",Not Applicable,Handball
+1328496019,Mie Nielsen,Female,25 September 1996,Alive,"Aalborg, Denmark",Not Applicable,Swimming
+1286757248,Mikael Simonsen,Male,unknown,unknown,unknown,unknown,Rowing
+1326877692,Mikkel Hansen,Male,22 October 1987,Alive,"Helsingør, Denmark",Not Applicable,Handball
+1328171288,Mogens Frey,Male,2 July 1941,Alive,"Glostrup, Denmark",Not Applicable,Cycling
+1271958878,Morten Jørgensen,Male,unknown,unknown,unknown,unknown,Rowing
+1326877812,Morten Olsen,Male,11 October 1984,Alive,"Osted, Denmark",Not Applicable,Handball
+1304707008,Nanna Merrald Rasmussen,Female,"Oct 8, 1993",Alive,"Hvalsø, Denmark",Not Applicable,Equestrian
+1330765689,Niclas Kirkeløkke,Male,26 March 1994,Alive,"Ringe, Denmark",Not Applicable,Handball
+1282316884,Niels Andersen,Male,14 May 1867,9 October 1930,"Skibinge, Denmark","Hyllinge, Denmark",Shooting
+1327306652,Niels Blach,Male,unknown,unknown,unknown,unknown,Field hockey
+1306017523,Niels Cristian Nielsen,Male,10 January 1897,12 April 1972,"Ubby, Denmark","Slagelse, Denmark",Gymnastics
+1306017540,Niels Erik Nielsen,Male,1 May 1893,4 March 1974,"Ringe, Denmark","Ringe, Denmark",Gymnastics
+1328540293,Niels Fredborg,Male,28 October 1946,Alive,"Odder, Denmark",Not Applicable,Cycling
+1270329384,Niels Henriksen,Male,4 February 1966,Alive,"Gentofte, Denmark",Not Applicable,Rowing
+1329228509,Niels Larsen,Male,21 November 1889,15 November 1969,"Horsens, Denmark","Syddanmark, Denmark",Shooting
+1271916973,Niels Markussen,Male,6 September 1934,11 July 2008,"Helsingør, Denmark",unknown,Sailing
+1279451273,Niels Otto Møller,Male,7 November 1897,14 April 1966,"Frederiksberg, Denmark","Stevns, Denmark",Sailing
+1327307588,Niels Petersen,Male,12 July 1885,29 August 1961,"Copenhagen, Denmark","Søllerød, Denmark",Gymnastics
+1327307953,Niels Turin Nielsen,Male,22 January 1887,9 June 1964,"Frederiksberg, Denmark","Frederiksberg, Denmark",Gymnastics
+1326877736,Niklas Landin Jacobsen,Male,19 December 1988,Alive,"Søborg, Denmark",Not Applicable,Handball
+1319758210,Niklas Larsen,Male,22 March 1997,Alive,"Slagelse, Denmark",Not Applicable,Cycling
+1317516473,Nils Middelboe,Male,5 October 1887,21 September 1976,"Brunnby, Sweden","Frederiksberg, Denmark",Football
+1306017286,Olaf Kjems,Male,31 May 1880,11 April 1952,"Odder, Denmark","Vester Vedsted, Denmark",Gymnastics
+1306018075,Olaf Pedersen,Male,6 July 1884,6 April 1972,"Stubberup, Denmark","Stubberup, Denmark",Gymnastics
+1270329183,Ole Berntsen,Male,22 January 1915,26 May 1996,"Hellerup, Gentofte, Denmark","Gentofte, Denmark",Sailing
+1329517517,Ole Gunnar Petersen,Male,30 December 1934,Alive,"Frederiksberg, Denmark",Not Applicable,Sailing
+1302757666,Ole Olsen,Male,7 June 1869,7 September 1944,"Lynge, Denmark","Copenhagen, Denmark",Shooting
+1323147436,Ole Poulsen,Male,16 December 1941,Alive,"Maglegård, Denmark",Not Applicable,Sailing
+1304707055,Ole Riber Rasmussen,Male,unknown,unknown,unknown,unknown,Shooting
+1327307534,Oluf Olsson,Male,30 May 1873,25 June 1947,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1282316903,Orla Jørgensen,Male,25 May 1904,29 June 1947,"Gentofte, Denmark","Gentofte, Denmark",Cycling
+1310779833,Oskar Nørland,Male,4 October 1882,18 May 1941,"Roskilde, Denmark","Frederiksberg, Denmark",Football
+1304707061,Ove Jensen,Male,7 November 1919,22 April 2011,"Copenhagen, Denmark","Hellerup, Denmark",Football
+1310779519,Paul Berth,Male,7 April 1890,9 November 1969,"Copenhagen, Denmark","Gentofte, Denmark",Football
+1331797361,Paul Elvstrøm,Male,25 February 1928,7 December 2016,"Hellerup, Denmark","Hellerup, Denmark",Sailing
+1304707071,Paul Lindemark Jørgensen,Male,unknown,unknown,unknown,unknown,Sailing
+1327306844,Paul Metz,Male,unknown,unknown,unknown,unknown,Field hockey
+1321647376,Peder Dorf Pedersen,Male,28 January 1897,13 September 1967,"Rostrup, Denmark",unknown,Gymnastics
+1306017892,Peder Larsen Pedersen,Male,30 November 1880,20 January 1966,"Stubberup, Denmark","Kerteminde, Denmark",Gymnastics
+1278040655,Peder Lykkeberg,Male,11 February 1878,23 December 1944,"Skanderborg, Denmark","Copenhagen, Denmark",Swimming
+1306017670,Peder Marcussen,Male,26 November 1894,16 December 1972,"Guldager, Denmark","Esbjerg, Denmark",Gymnastics
+1309293030,Peder Pedersen,Male,3 November 1945,9 January 2015,"Nørre Nærå, Syddanmark, Denmark","Odense, Denmark",Cycling
+1327304946,Peer Nielsen,Male,unknown,unknown,unknown,unknown,Canoeing
+1327183689,Per Kjærgaard Nielsen,Male,unknown,unknown,unknown,unknown,Sailing
+1304707090,Per Knudsen,Male,2 June 1925,8 February 1999,"Aarhus, Denmark","Viby J, Denmark",Football
+1309293067,Per Lyngemark,Male,23 May 1941,2 April 2010,"Frederiksberg, Denmark",unknown,Cycling
+1275663167,Per Rasmussen,Male,unknown,unknown,unknown,unknown,Rowing
+1331114734,Pernille Blume,Female,14 May 1994,Alive,"Herlev, Denmark",Not Applicable,Swimming
+1306016467,Peter Andersen,Male,9 April 1884,25 September 1956,Højby,"Egebjerg, Odsherred Municipality, Denmark",Gymnastics
+1323148546,Peter Christiansen,Male,4 April 1941,Alive,"Frederiksberg, Denmark",Not Applicable,Rowing
+1327183665,Peter Due,Male,unknown,unknown,unknown,unknown,Sailing
+1270331670,Peter Jørgensen,Male,2 April 1907,27 August 1992,"Hillerød, Denmark",unknown,Boxing
+1304707128,Peter Lang,Male,12 June 1989,Alive,"Vejle, Denmark",Not Applicable,Sailing
+1270669005,Peter Marius Andersen,Male,25 April 1885,20 March 1972,"Copenhagen, Denmark","Copenhagen, Denmark",Football
+1327307306,Peter Møller,Male,28 February 1897,17 October 1984,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1293401411,Peter Schlütter,Male,25 November 1893,6 April 1959,"Copenhagen, Denmark","Copenhagen, Denmark",Sailing
+1304707163,Poul Andersen,Male,2 January 1930,30 December 1995,unknown,unknown,Football
+1275806458,Poul Hansen,Male,20 October 1891,29 October 1948,"Ubberud, Odense Municipality, Denmark","Aarhus, Denmark",Wrestling
+1304707210,Poul Hartmann,Male,unknown,unknown,unknown,unknown,Rowing
+1304707244,Poul Jensen,Male,28 March 1934,6 July 2022,"Vejle, Denmark",unknown,Football
+1306016848,Poul Jørgensen,Male,17 February 1892,6 October 1973,"Nykøbing Falster, Denmark","Copenhagen, Denmark",Gymnastics
+1306017655,Poul Mark,Male,19 June 1889,18 January 1957,"Erslev, Denmark","Odense, Denmark",Gymnastics
+1325462703,Poul Mejer,Male,2 November 1931,9 January 2000,"Vejle, Denmark",unknown,Football
+1305246184,Poul Nielsen,Male,25 December 1891,9 August 1962,"Copenhagen, Denmark","Copenhagen, Denmark",Football
+1285915557,Poul Pedersen,Male,31 October 1932,23 December 2016,"Århus, Denmark",unknown,Football
+1320168430,Poul Petersen,Male,11 April 1921,31 May 1997,"Copenhagen, Denmark","Tisvildeleje, Denmark",Football
+1328165909,Poul Richard Høj Jensen,Male,2 June 1944,Alive,"Copenhagen, Denmark",Not Applicable,Sailing
+1263456074,Poul Svendsen,Male,unknown,unknown,unknown,unknown,Rowing
+1286704886,Poul Thymann,Male,unknown,unknown,unknown,unknown,Rowing
+1301221236,Poul-Erik Høyer Larsen,Male,20 September 1965,Alive,"Helsinge, Denmark",Not Applicable,Badminton
+1309293709,Preben Isaksson,Male,22 January 1943,27 December 2008,"Copenhagen, Denmark","Greve, Denmark",Cycling
+1270327973,Preben Krab,Male,unknown,unknown,unknown,unknown,Rowing
+1321099392,Princess Nathalie of Sayn-Wittgenstein-Berleburg,Male,2 May 1975,Alive,"Copenhagen, Denmark",Not Applicable,Equestrian
+1323173998,Ragnhild Hveger,Female,10 December 1920,1 December 2011,"Nyborg, Denmark",unknown,Swimming
+1286703779,Rasmus Frandsen,Male,unknown,unknown,unknown,unknown,Rowing
+1306016626,Rasmus Hansen,Male,13 January 1885,3 July 1967,"Flemløse, Denmark","Viby J, Denmark",Gymnastics
+1326877358,Rasmus Lauge,Male,20 June 1991,Alive,"Randers, Denmark",Not Applicable,Handball
+1331114509,Rasmus Pedersen,Male,9 July 1998,Alive,"Odense, Denmark",Not Applicable,Cycling
+1257790708,Rasmus Quaade,Male,7 January 1990,Alive,"Valby, Denmark",Not Applicable,Cycling
+1331114952,Rasmus Quist Hansen,Male,unknown,unknown,unknown,unknown,Rowing
+1306018156,Rasmus Rasmussen,Male,26 May 1899,11 April 1974,"Viby, Kerteminde, Denmark","Odense, Denmark",Gymnastics
+1323147331,Reno Olsen,Male,19 February 1947,Alive,"Roskilde, Denmark",Not Applicable,Cycling
+1331114748,René Holten Poulsen,Male,28 November 1988,Alive,"Sakskøbing, Denmark",Not Applicable,Canoeing
+1326877952,René Toft Hansen,Male,1 November 1984,Alive,"Skive, Denmark",Not Applicable,Handball
+1268226559,Richard Olsen,Male,31 October 1911,13 February 1956,Sorø,Sorø,Rowing
+1327307342,Rikard Nordstrøm,Male,23 April 1893,7 February 1955,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1331384228,Rikke Hørlykke,Female,2 May 1976,Alive,unknown,Not Applicable,Handball
+1331384278,Rikke Iversen,Female,18 May 1993,Alive,"Nykøbing Falster, Denmark",Not Applicable,Handball
+1282714998,Rikke Møller Pedersen,Female,9 January 1989,Alive,"Odense, Denmark",Not Applicable,Swimming
+1331384873,Rikke Petersen-Schmidt,Female,14 January 1975,Alive,"Aarhus, Denmark",Not Applicable,Handball
+1331384994,Rikke Skov,Female,7 September 1980,Alive,"Viborg, Denmark",Not Applicable,Handball
+1327307234,Robert Johnsen,Male,23 June 1896,31 August 1975,"Copenhagen, Denmark","Gentofte, Denmark",Gymnastics
+1306017732,Robert Madsen,Male,13 December 1882,24 September 1954,"Odense, Denmark","Copenhagen, Denmark",Gymnastics
+1328932596,Rolf Sørensen,Male,20 April 1965,Alive,"Helsinge, Denmark",Not Applicable,Cycling
+1327306912,Rudolf Andersen,Male,11 August 1899,7 July 1983,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1331385093,Sandra Toft,Female,18 October 1989,Alive,"Gribskov, Denmark",Not Applicable,Handball
+1319708526,Sara Petersen,Female,9 April 1987,Alive,"Nykøbing Falster, Denmark",Not Applicable,Athletics
+1331384285,Sarah Iversen,Female,10 April 1990,Alive,"Frederiksberg, Denmark",Not Applicable,Handball
+1304707423,Signe Livbjerg,Female,unknown,unknown,unknown,unknown,Sailing
+1326877522,Simon Hald,Male,28 September 1994,Alive,"Aalborg, Denmark",Not Applicable,Handball
+1328423479,Simon Pytlick,Male,11 December 2000,Alive,"Thurø, Denmark",Not Applicable,Handball
+1199392751,Sofie Castenschiold,Female,1 February 1882,30 January 1979,"Copenhagen, Denmark","Helsingborg, Sweden",Tennis
+1310779394,Sophus Hansen,Male,16 November 1889,19 February 1962,"Copenhagen, Denmark","Copenhagen, Denmark",Football
+1315430390,Sophus Nielsen,Male,15 March 1888,6 August 1963,"Copenhagen, Denmark","Copenhagen, Denmark",Football
+1272848868,Steen Christensen,Male,1 November 1941,Alive,Frederiksberg,Not Applicable,Sailing
+1327306812,Steen Due,Male,unknown,unknown,unknown,unknown,Field hockey
+1279444691,Steen Herschend,Male,12 November 1888,3 August 1976,"Copenhagen, Denmark","Taarbæk, Lyngby-Taarbæk",Sailing
+1327307481,Steen Olsen,Male,17 June 1886,5 May 1960,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1331114135,Steen Secher,Male,unknown,unknown,unknown,unknown,Sailing
+1286001729,Stefan Rasmussen,Male,11 April 1880,3 March 1951,"Copenhagen, Denmark","Gentofte, Denmark",Football
+1260928369,Stefanie Clausen,Female,"April 1, 1900","August 2, 1981","Vesterbro, Denmark","Fredensborg, Denmark",Diving
+1241122372,Stephan Mølvig,Male,unknown,unknown,unknown,unknown,Rowing
+1327302328,Stig Rønne,Male,30 December 1887,15 September 1951,"Herstedvester, Denmark","Copenhagen, Denmark",Gymnastics
+1331385163,Susanne Munk Wilbek,Female,12 October 1967,Alive,"Hvorslev, Denmark",Not Applicable,Handball
+1308891371,Susanne Nielsson,Female,8 Juli 1960,Alive,"Aarhus, Denmark",Not Applicable,Swimming
+1279444699,Sven Thomsen,Male,7 September 1884,14 November 1968,"Copenhagen, Denmark","Vittsjö, Hässleholm, Denmark",Sailing
+1306017713,Svend Madsen,Male,17 March 1897,10 September 1990,"Vejle, Denmark","Gentofte, Denmark",Gymnastics
+1329562355,Svend Olsen,Male,17 October 1908,13 December 1980,"Lodbjerg, Denmark","Hundested, Denmark",Weightlifting
+1260907016,Svend Ove Pedersen,Male,unknown,unknown,unknown,unknown,Rowing
+1275806210,Svend Wad,Male,unknown,unknown,unknown,unknown,Boxing
+1306017088,Søren Alfred Jensen,Male,22 May 1891,16 May 1978,"Veerst, Denmark","Denver, Colorado, US",Gymnastics
+1272848143,Søren Hancke,Male,13 December 1939,Alive,Århus,Not Applicable,Sailing
+1270728629,Søren Madsen,Male,unknown,unknown,unknown,unknown,Rowing
+1276607009,Søren Marinus Jensen,Male,5 May 1879,6 January 1965,"Skødstrup, Aarhus, Denmark",unknown,Wrestling
+1315095336,Søren Peter Christensen,Male,30 October 1884,12 October 1927,"Langskov, Denmark","Faaborg, Denmark",Gymnastics
+1275806340,Søren Petersen,Male,unknown,unknown,unknown,unknown,Boxing
+1306018350,Søren Sørensen,Male,20 April 1897,11 March 1965,"Drigstrup, Denmark","Malling, Denmark",Gymnastics
+1306018377,Søren Thorborg,Male,10 March 1889,31 July 1978,"Barrit, Denmark","Gilleleje, Denmark",Gymnastics
+1286643115,Tage Henriksen,Male,8 April 1925,13 May 2016,Roskilde,unknown,Rowing
+1326877535,Thomas Arnoldsen,Male,11 January 2002,Alive,"Aarhus, Denmark",Not Applicable,Handball
+1331114872,Thomas Ebert,Male,unknown,unknown,unknown,unknown,Rowing
+1326513168,Thomas Jacobsen,Male,unknown,unknown,unknown,unknown,Sailing
+1331114857,Thomas Poulsen,Male,unknown,unknown,unknown,unknown,Rowing
+1302489819,Thomas Stuer-Lauridsen,Male,29 April 1971,Alive,"Hørsholm Municipality, Denmark",Not Applicable,Badminton
+1304707447,Thor Kristensen,Male,unknown,unknown,unknown,unknown,Rowing
+1275640569,Thorvald Eigenbrod,Male,unknown,unknown,unknown,unknown,Field hockey
+1321405899,Thyge Petersen,Male,28 May 1902,1 January 1964,"Horsens, Denmark","Odense, Denmark",Boxing
+1331383733,Tina Bøttzau,Female,29 August 1971,Alive,"Kolding, Denmark",Not Applicable,Handball
+1328191282,Tommy Troelsen,Male,10 July 1940,9 March 2021,"Nykøbing Mors, Denmark","Vejle, Denmark",Football
+1331384400,Tonje Kjærgaard,Female,11 June 1975,Alive,"Silkeborg, Denmark",Not Applicable,Handball
+1304707456,Torben Grimmel,Male,"November 23, 1975",Alive,"Odder, Denmark",Not Applicable,Shooting
+1327307042,Torkild Garp,Male,31 January 1883,16 February 1976,"Copenhagen, Denmark","Gentofte, Denmark",Gymnastics
+1327306466,Tove Søby,Female,unknown,unknown,unknown,unknown,Canoeing
+1275804431,Trine Hansen,Female,19 February 1973,Alive,"Ringsted, Denmark",Not Applicable,Rowing
+1331384761,Trine Nielsen,Female,16 October 1980,Alive,"Aalborg, Denmark",Not Applicable,Handball
+1253354157,Trine Qvist,Female,unknown,unknown,unknown,unknown,Curling
+1332302269,Trine Østergaard,Female,17 October 1991,Alive,"Skanderborg, Denmark",Not Applicable,Handball
+1327618620,Turpal Bisultanov,Male,14 October 2001,Alive,"Chechnya, Russia",Not Applicable,Wrestling
+1328011953,Ulrik Wilbek,Male,13 April 1958,Alive,"Tunis, Tunisia",Not Applicable,Handball
+1326512573,Valdemar Bandolowski,Male,unknown,unknown,unknown,unknown,Sailing
+1306016392,Valdemar Bøggild,Male,30 September 1883,2 July 1943,"Ringe, Denmark","Ringe, Denmark",Gymnastics
+1276174200,Verner Blaudzun,Male,23 March 1946,Alive,"Sønderborg, Syddanmark, Denmark",Not Applicable,Cycling
+1331114798,Victor Feddersen,Male,31 January 1968,Alive,"Gentofte, Denmark",Not Applicable,Rowing
+1281148086,Victor Jørgensen,Male,unknown,unknown,unknown,unknown,Boxing
+1327307836,Viggo Dibbern,Male,10 July 1900,30 January 1982,"Frederiksberg, Denmark","Herlev, Denmark",Gymnastics
+1286848714,Viggo Jensen,Male,9 March 1921,30 November 2005,"Skagen, Denmark","Esbjerg, Denmark",Football
+1327305856,Viggo Jensen,Male,unknown,unknown,unknown,unknown,Shooting
+1306017701,Vigo Madsen,Male,13 November 1889,17 June 1979,"Vejle, Denmark","Helleruplund, Denmark",Gymnastics
+1332066095,Viktor Axelsen,Male,4 January 1994,Alive,"Odense, Denmark",Not Applicable,Badminton
+1327307619,Viktor Rasmussen,Male,10 January 1882,1 May 1956,"Copenhagen, Denmark","Copenhagen, Denmark",Gymnastics
+1306017440,Vilhelm Lange,Male,20 December 1893,17 November 1950,"Ringkøbing, Denmark","Frederiksberg, Denmark",Gymnastics
+1279451263,Vilhelm Vett,Male,31 December 1879,3 December 1962,"Copenhagen, Denmark","Palma de Mallorca, Spain",Sailing
+1305247140,Vilhelm Wolfhagen,Male,11 November 1889,5 July 1958,"Copenhagen, Denmark","Frederikshavn, Denmark",Football
+1306016767,Wilhelm Grimmelmann,Male,15 January 1893,8 December 1958,"Asendorf, Denmark","West Haven, Connecticut, US",Gymnastics
+1260907338,William Berntsen,Male,25 March 1912,14 September 1994,"Jersie, Denmark","Frederikssund, Denmark",Sailing
+1269855382,Willy Gervin,Male,28 November 1903,8 July 1951,"Copenhagen, Denmark","Roskilde, Denmark",Cycling
+1282316893,Willy Hansen,Male,4 April 1906,18 March 1978,"Helsingør, Denmark","Braşov, Romania",Cycling
+1331114267,Wilson Kipketer,Male,12 December 1972,Alive,"Kapchemoiywo, Nandi County, Kenya",Not Applicable,Athletics
