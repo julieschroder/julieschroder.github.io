@@ -21,7 +21,7 @@ medal_colors.append('All')
 merged = data1.merge(data2,left_on="id",right_on="id")
 
 n_medals = pd.DataFrame(data2[["id", "medal_color"]].value_counts().reset_index(name="number_medals"))
-n_medals2 = n_medals.replace({'gold': '1', 'silver': '2', 'bronze': '3'}).rename(columns={"medal_color": "placement"})
+n_medals2 = n_medals.replace({'Gold': '1', 'Silver': '2', 'Bronze': '3'}).rename(columns={"medal_color": "placement"})
 
 # merged = data1.merge(data2,left_on="id",right_on="id")
 
@@ -34,7 +34,7 @@ app.layout = html.Div([
         html.Div([
             dcc.Dropdown(
                 id='medal_color',
-                options=[{'label': i.capitalize(), 'value': i} for i in medal_colors],
+                options=[{'label': i, 'value': i} for i in medal_colors],
                 value='All'
             ),
             html.Button(id='resetAll', children = 'Remove all filters', n_clicks = 0)
@@ -50,14 +50,16 @@ app.layout = html.Div([
                         html.Div([DashWordcloud( 
                             id='wordcloud',
                             list=[],
-                            width=800, 
-                            height=400,
+                            width='550rem', 
+                            height='400rem',
                             gridSize=15,
+                            weightFactor=3,
                             color='random-dark',
                             backgroundColor='lightblue',
                             shuffle=False,
-                            rotateRatio=0.5 ,
+                            rotateRatio=0.5,
                             shrinkToFit=True,
+                            drawOutOfBound=False,
                             hover=True) 
                             ],style={'margin':'0 auto'}),
                         
@@ -65,7 +67,7 @@ app.layout = html.Div([
                                   config = {'displayModeBar': False})
                             ],style={'margin':'0 auto'})
                 ])
-            ],style={'width':'60%','display':'inline-block'}),
+            ],style={'width':'50%','display':'inline-block'}),
             html.Div([
                 html.H2("Olympic Events", 
                         style = {'textAlign':'center', 'font-family' : 'Helvetica', 'font-size': '1.75rem'}),    
@@ -74,7 +76,7 @@ app.layout = html.Div([
                 html.Button(id='resetBar', children = 'Remove olympic event filter', n_clicks = 0),
                 dcc.Graph(id='medal_chart',
                           config = {'displayModeBar': False})
-                ],style={'width':'40%', 'display':'inline-block'}),
+                ],style={'width':'45%', 'display':'inline-block'}),
         ]),
         
         html.Div([            
@@ -97,6 +99,97 @@ def filter_data(medal_color):
         mydata = merged[merged["medal_color"] == medal_color]
     
     return mydata
+
+
+@app.callback(
+    Output(component_id='wordcloud', component_property='list'),
+    Output(component_id='discipline_table', component_property='figure'),
+    Output(component_id='wordcloud', component_property="style"),
+    Output(component_id='discipline_table', component_property="style"),
+    [
+        Input(component_id='medal_color', component_property='value'),
+        Input(component_id='medal_chart', component_property='clickData'),
+        Input(component_id='wordcloud', component_property='click'),
+    ],
+)
+    
+def display_wordcloud(medal_color,clickData,click_word):
+                    
+        mydata = filter_data(medal_color)
+        
+        event = None
+        if clickData != None:
+            event = clickData["points"][0]["x"]
+            mydata = mydata[mydata["year"] == event]
+        
+        words = {}
+        word_data = mydata.drop_duplicates(["discipline","medal_color","year","gender"])
+        sportdata = word_data['sport']
+
+        for k in sportdata: 
+            if k in words.keys(): 
+                words[k] += 1
+            
+            else:
+                words[k] = 1
+
+        sport = None
+        if click_word != None:
+            sport = click_word[0] 
+            mydata = mydata[mydata['sport'] == sport]
+
+            merged2 = mydata.sort_values(by=["discipline"])
+
+            fig = go.Figure(data=[go.Table(
+                columnwidth = [35,35,15,15],
+                header=dict(values=["Discipline","Name", "Medal Color", "Olympic Event"],
+                                    line_color='black',
+                                    fill_color='royalblue',
+                                    font_color='white',
+                                    font_weight='bold',
+                                    align='left'),
+                cells=dict(values=[merged2.discipline, merged2.name,
+                                   merged2.medal_color, merged2.year],
+                                   line_color='black',
+                                   fill_color='cornflowerblue',
+                                   align='left'))
+                ],layout=go.Layout(title="Disciplines of "+sport,
+                                   font_color='black',
+                                   paper_bgcolor='lightblue'))
+            return [], fig, {"display":"none"}, {"display":"block"}
+        else:
+            wordData = []
+            for sport, count in words.items():
+                wordData.append([sport, count, sport + ": " + str(count) + " medals"])
+            return wordData, {}, {"display":"block"}, {"display":"none"}
+
+@app.callback(
+    Output(component_id='medal_chart', component_property='figure'),
+    [
+        Input(component_id='medal_color', component_property='value'),
+        Input(component_id='wordcloud', component_property='click'),
+    ]
+)
+def display_chart(medal_color, click_word):
+ 
+    mydata = filter_data(medal_color)
+    
+    sport = None
+    if click_word != None: 
+        sport = click_word[0] 
+        mydata = mydata[mydata['sport'] == sport]
+
+    mydata = mydata.drop_duplicates(["discipline","medal_color","gender"])
+    medal_counts = mydata.groupby(by=["year"]).size().reset_index(name="counts")
+
+    
+    fig = px.bar(medal_counts, x='year', y='counts',
+                 title="Number of medals won each olympic event",
+                 labels={ # Change default labels
+                "counts": "Number of Medals Won",  "year": "Olympic event"},
+                template='seaborn')
+    fig.update_layout(plot_bgcolor='lightblue',paper_bgcolor='lightblue',font_color='black')
+    return fig
 
     
 @app.callback(
@@ -149,97 +242,6 @@ def update_table(medal_color, clickData, click_word):
                      paper_bgcolor='lightblue'))
     
     return fig
-
-@app.callback(
-    Output(component_id='wordcloud', component_property='list'),
-    Output(component_id='discipline_table', component_property='figure'),
-    Output(component_id='wordcloud', component_property="style"),
-    Output(component_id='discipline_table', component_property="style"),
-    [
-        Input(component_id='medal_color', component_property='value'),
-        Input(component_id='medal_chart', component_property='clickData'),
-        Input(component_id='wordcloud', component_property='click'),
-    ],
-)
-    
-def display_wordcloud(medal_color,clickData,click_word):
-                    
-        mydata = filter_data(medal_color)
-        
-        event = None
-        if clickData != None:
-            event = clickData["points"][0]["x"]
-            mydata = mydata[mydata["year"] == event]
-        
-        words = {}
-        word_data = mydata.drop_duplicates(["discipline","medal_color","year","gender"])
-        sportdata = word_data['sport']
-
-        for k in sportdata: 
-            if k in words.keys(): 
-                words[k] += 1
-            
-            else:
-                words[k] = 1
-
-        sport = None
-        if click_word != None:
-            sport = click_word[0] 
-            mydata = mydata[mydata['sport'] == sport]
-
-            merged2 = mydata.sort_values(by=["discipline"])
-
-            fig = go.Figure(data=[go.Table(
-                columnwidth = [25,35,20,20],
-                header=dict(values=["Discipline","Name", "Medal Color", "Olympic Event"],
-                                    line_color='black',
-                                    fill_color='royalblue',
-                                    font_color='white',
-                                    font_weight='bold',
-                                    align='left'),
-                cells=dict(values=[merged2.discipline, merged2.name,
-                                   merged2.medal_color, merged2.year],
-                                   line_color='black',
-                                   fill_color='cornflowerblue',
-                                   align='left'))
-                ],layout=go.Layout(title="Disciplines of "+sport,
-                                   font_color='black',
-                                   paper_bgcolor='lightblue'))
-            return [], fig, {"display":"none"}, {"display":"block"}
-        else:
-            wordData = []
-            for sport, count in words.items():
-                wordData.append([sport, count, sport + ": " + str(count) + " medals"])
-            return wordData, {}, {"display":"block"}, {"display":"none"}
-
-@app.callback(
-    Output(component_id='medal_chart', component_property='figure'),
-    [
-        Input(component_id='medal_color', component_property='value'),
-        Input(component_id='wordcloud', component_property='click'),
-    ]
-)
-def display_chart(medal_color, click_word):
- 
-    mydata = filter_data(medal_color)
-    
-    sport = None
-    if click_word != None: 
-        sport = click_word[0] 
-        mydata = mydata[mydata['sport'] == sport]
-
-    mydata = mydata.drop_duplicates(["discipline","medal_color","gender"])
-    medal_counts = mydata.groupby(by=["year"]).size().reset_index(name="counts")
-
-    
-    fig = px.bar(medal_counts, x='year', y='counts',
-                 title="Number of medals won each olympic event",
-                 labels={ # Change default labels
-                "counts": "Number of Medals Won",  "year": "Olympic events"},
-                template='seaborn')
-    fig.update_layout(plot_bgcolor='lightblue',paper_bgcolor='lightblue',font_color='black')
-    return fig
-
 
 @app.callback(
     Output(component_id='medal_color', component_property='value'),
