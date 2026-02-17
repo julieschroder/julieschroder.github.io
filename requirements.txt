@@ -1,0 +1,5 @@
+pandas==2.3.3
+dash==2.14.2
+dash-holoniq-wordcloud==0.0.4
+plotly==6.3.0
+gunicorn==25.1.0
