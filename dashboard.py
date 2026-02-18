@@ -141,7 +141,7 @@ def display_wordcloud(medal_color,clickData,click_word):
             merged2 = mydata.sort_values(by=["discipline"])
 
             fig = go.Figure(data=[go.Table(
-                columnwidth = [35,35,15,15],
+                columnwidth = [30,30,15,15],
                 header=dict(values=["Discipline","Name", "Medal Color", "Olympic Event"],
                                     line_color='black',
                                     fill_color='royalblue',
